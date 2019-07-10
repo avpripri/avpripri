@@ -6,6 +6,8 @@ The primary goal of the Phase 1 Airframe development is to focus on prooving out
 
 - Vans RV-9A
 ![RV9](resources/rv9.jpg)
+- GlasAir GlaStar (aka Sportsman)
+![Glastar](resources/glastar.jpg)
 - Sonex 
 ![Sonex](resources/sonex.jpg)
 - Zenith CH 601
