@@ -22,7 +22,103 @@ This project is founded on the principal that an order of magnitude improvement 
 
 ## Imagine how...
 
-[tbd] Tell some stories about how a couple typical missions could be done using this system.
+You come out to the airfield to see your beutiful airplane, give it one walk around only looking for any gross damage then hop in.  That's your entire pre-flight.  Push on both brakes and hit the "Power" button and the displays comes alive as diagnostics begin.  It will run a complete check on all electrical, then oil-levels, tire pressure, control system, brakes and finally fuel systems checking.  It noticed you filled up after you shut down and reset the fuel to a couple gallons under full where you left it.
+
+With diagnostics complete, the system asks..
+
+"What is your mission today?"
+
+You pull your headset on, press the "Push to Listen" (PTL) button and say
+
+"I'm headed to the northeast practice area."
+
+The situation display shows where you are on the ramp, and paints a blue line to the active runway.  It highlights 122.80 frequency selected and prompts...
+
+Airplane; "If the area clear, say 'N12345 Taxing for runway 24 via Alpha' on the tuned Unicom frequency"
+
+You do as directed, the strobes turn on and few moments later the prop starts to spin at a wisper then a whir as the wheels ease forward and turn towards Alpha taxiway.  En-route you hear the generator start-up, the flight controls go to full stops and you notice the brakes actuate under a heavier propellor load.  The monitor confirms it's running the pre-flight checks on the taxi.  It all calms down as you turn down the long taxiway and the system prompts you...
+
+"All systems are operating normally.  There is no observed traffic on TCAS, if the runway is clear, announce 'N12345 North-east VFR departing runway 24 from Alpha'"
+
+You look around and see there's a buetiful old yellow Cub on final. As you get closer to the hold short, the airplane stops and waites.  Finally the Cub clear the runway and you announce as instructed.
+
+You see on the display a big "Ready for Takeoff" as the propeller whirs to life again and you slide into position on the runway.  As the plane comes to a stop, it says...
+
+"Ready for takeoff, in case of emergy on runway, apply brakes and come to a stop.  If airborn and room to land, land on runway, bellow 600 land in the field to the left.  Above 600 a turn around is possible, say Takeoff when ready."
+
+You press the PTL and announce "Takeoff!"
+
+The motors roars to life as the airframe strains against the brakes holding it back.  You realize theres one last full power check and right then, the brakes release and your pulled forward down the runway.
+
+"Airspeed 30...40..45... All green, rotate"
+
+You speed up briskly down the runway and the nose raises
+
+"All green... 50 feet, straight ahead"
+
+The field to the left is obviously nice and wide open a good spot to land if I had to.  The monitor shows it on the airport map and the words "Warning - Terrain"
+
+"All green... 200 feet, straight ahead"
+
+"All green... 400 feet, straight ahead"
+
+"All green... 600 feet, turn-back available."
+
+The terrain warning clears
+
+"All green 1000... Turning Right 040..."
+
+And the plane gently rolls to the right and starts a gentle standard rate turn
+
+"All green 2000.. "
+
+The wings level at 040 a moment later the nose pitches down
+
+"Level 2500"
+
+You look around and enjoy the view as you head out to the practice area, you can feel the plane giving gengtle feedback.  You know you are in command, but it's really doing the leveling. If you try to turn it, it just resists and tries to head back on the blue line it's obediently following.
+
+"Arriving at the northeast practice area, what manuevers do you want to practice?"
+
+"Stalls"
+
+"OK, we'll need to clear the area first, start by doing two 90 degree turns in either direction"
+
+You pull the stick left and the plane just follows allong, there might be a little resistance, but it's letting you do your manuevers.  As you level out it says...
+
+"Ok, begin your stall by powering back, then apply progressive aft stick to stay level"
+
+You pull the throttle back and the propellers whirr gets a little lighter, you pull the elevator aft further.
+
+.. as the speed starts to bleed off, "Recovery is immediate full power and pitch the nose over gently".  
+
+The nose pops and the tail buffets as you hit the aft limit of the elevator travel.
+
+"Recover"
+
+But you're not a real unfortable pilot and your just frozen.  The airplane waits a moment and just before the nose cuts over...
+
+"Release controls!" is commanded abruptly in a harsh demanding voice.
+
+The airplane applies rudder to stop the spin that's started and coordates power and enough elevator to recover as normal flight is restored.  Started you decide it's time to head back home...
+
+"What is the next manuever you'd like to perform"
+
+You say... "I'm done, let's head home"
+
+"Ok... Unicome is already tuned in, say 'N12345 15 miles to the northeast with AWOS, proceeding inbound for full stop runway 24'" 
+
+You comply but right then... you fade off and something dims it's not good.
+
+The airplane realises you're not responsive and your pulse is eratic.  It asks you twice to state your landing attempt, but you're out cold.
+
+The airplane states over the radio "N12345, declaring emergency with an incapacitated pilot please have medical personel ready and clear runway 24 for emergency landing" 
+
+The airplane lands itself slows down and announces again...
+
+"N12345, emergency declared taxing from runway 24 via Alpha autonymously please clear all runways and taxiways and have emergency personell available"
+
+The plane taxies to the tie down it started from, shuts down and waits as the ambulence pulls into the spot.  The doors open and they rescue you from what could have been fatal in several ways.
 
 # The approach
 
