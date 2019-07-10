@@ -12,13 +12,13 @@ _Other or unknown 10.4% - 101 Total_ - So, if we're honest there's not much anyo
 
 _Mechanical  15.7% - 152 Total_ - Many mechanical accidents are avoidable with purposely build and tested 100% redundancy at all levels.
 
-_Pilot-related  73.8% - 714_ - This is entirely unacceptable and avoidable.  If you take away nothing from the Nall report, every pilot should recognize theya re the weakest and most important link in aviation safety.  This project attempts to fix that.
+_Pilot-related  73.8% - 714 Total_ - This is entirely unacceptable and avoidable.  If you take away nothing from the Nall report, every pilot should recognize theya re the weakest and most important link in aviation safety.  This project attempts to fix that.
 
 The Nall report has been trending safer for decades... many in the industry site Electronic cockpits and ballistic parachutes, while I agree they are good, I do not think they are enough.  There's no excuse for fuel starvation or CFIT 100+ years after kitty hawk.
 
 # First Principal
 
-This project is founded on the principal that an order of magnitude improvement in overall light aircraft aviation safety is obviously achievable.  But to do that it requires a "first principal" approach.  Strip down the aircraft, what it does how it functions and what the pilots role is in and out of the cockpit. 
+This project is founded on the principal that an order of magnitude improvement in overall light aircraft aviation safety is obviously achievable.  That's 97 accidents where we have 967 today.  But to do that it requires a "first principal" approach.  Strip down the aircraft, what it does how it functions and what the pilots role is in and out of the cockpit. 
 
 # Imagine how...
 
