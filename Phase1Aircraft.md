@@ -5,17 +5,17 @@ The primary goal of the Phase 1 Airframe development is to focus on prooving out
 # Candidate airframes;
 
 - Vans RV-9A
-![RV9](./resources/rv9.jpg)
+![RV9](./resources/rv9.jpeg)
 - GlasAir GlaStar (aka Sportsman)
-![Glastar](./resources/glastar.jpg)
+![Glastar](./resources/glastar.jpeg)
 - Sonex 
-![Sonex](./resources/sonex.jpg)
+![Sonex](./resources/sonex.jpeg)
 - Zenith CH 601
-![CH601](./resources/ch601.jpg)
+![CH601](./resources/ch601.jpeg)
 - Zenith CH 701
-![CH701](./resources/ch701.jpg)
+![CH701](./resources/ch701.jpeg)
 - Kitfox
-![Kitfox](./resources/kitfox.jpg)
+![Kitfox](./resources/kitfox.jpeg)
 
 We will purchase an actively flying airframe, from the list above, in a known airworthy condition.
 
@@ -45,12 +45,12 @@ Pros - Simple, well known
 Cons - Flying single engine is tricky, additional licensing
 
 ## Hybrid ICE + Electric Motor
-![Corvair](./resources/corvair.jpg)
+![Corvair](./resources/corvair.jpeg)
 Pros - Cheapest, easy to fly (no special ratings), lightweight, can replace starter/alternator, immediate and simple failure mode
 Cons - Propellor and crankshaft are a common failure mode
 
 ## Electric Motors + ICE Generator 
-![Freepiston Geneator](./resources/freepiston_genset.jpg)
+![Freepiston Geneator](./resources/freepiston_genset.jpeg)
 
 Pros - Ultra-reliable, can utilize purpose build "genset" with high efficiency.
 Cons - Heavy (motors, props, generator and engine), twin engine requires additional rating
