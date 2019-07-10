@@ -5,17 +5,17 @@ The primary goal of the Phase 1 Airframe development is to focus on prooving out
 # Candidate airframes;
 
 - Vans RV-9A
-![RV9A](./resources/rv9a.jpeg =300x200)
+![RV9A](./resources/rv9a.jpeg =300x)
 - GlasAir GlaStar (aka Sportsman)
-![Glastar](./resources/glastar.jpeg =300x200)
+![Glastar](./resources/glastar.jpeg =300x)
 - Sonex 
-![Sonex](./resources/sonex.jpeg =300x200)
+![Sonex](./resources/sonex.jpeg =300x)
 - Zenith CH 601
-![CH601](./resources/ch601.jpeg =300x200)
+![CH601](./resources/ch601.jpeg =300x)
 - Zenith CH 701
-![CH701](./resources/ch701.jpeg =300x200)
+![CH701](./resources/ch701.jpeg =300x)
 - Kitfox
-![Kitfox](./resources/kitfox.jpeg =300x200)
+![Kitfox](./resources/kitfox.jpeg =300x)
 
 We will purchase an actively flying airframe, from the list above, in a known airworthy condition.
 
