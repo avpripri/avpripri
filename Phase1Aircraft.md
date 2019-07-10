@@ -74,10 +74,12 @@ Since it needs to fly and airplanes fly on money... The hybrid ICE + Electric mo
 
 Fuel system are best which have the following traits;
 
-- Simple
+- Simple (one tank per engine)
 - Gravity fed
 
-For this reason high-wings are preferred.  If a low wings is however selected, a single 5-15g gravity fed header tank will be used and fed by low-pressure electric pumps to each wing tank.   The fuel pump will be controlled and monitored by fuel management system.  Regardless of configuration all tanks will have a capacitive sensor and a seperate low-level indicator that provide fuel level information to the dedicated fuel management system.
+Note some options are low-wings, but given the powerplant configuration, we may still should be able to gravity feed if the fuel is located near or above the ICE.
+
+Regardless of tank configuration all tanks will have a capacitive sensor and a seperate low-level indicator that provide fuel level information to the dedicated fuel management system.
 
 # Electrical
 
