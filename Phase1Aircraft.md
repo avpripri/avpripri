@@ -85,6 +85,8 @@ Regardless of tank configuration all tanks will have a capacitive sensor and a s
 
 _Dual redundant electrical systems_  There are many great source for redundant electrica systems.  I will defer to those.  They are not hard to build or understand, they do require some additional considerations.
 
+![panel](./resources/panel.png)
+
 _Switchless_ The entire electrical system will be actuated by PCS-fuse-issolated and solid-state or mechanical relays controlled by the electrical management system.  There will only be one bat switch in the cockpit labelled "Master/Essential/Off".  All other switching will be fuse issolated and actuated by the electrical management system.  This includes;
 
 - Charge source(s) disable for DC-DC converter
