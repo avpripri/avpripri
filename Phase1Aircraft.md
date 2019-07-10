@@ -1,6 +1,6 @@
 # About
 
-The primary goal is to focus on prooving out the concepts of the project.  The attributes of a test-bed aircraft is that it be simple yet mechanically robust (space for equipment), seats two for pilot and test engineer, aero-dynamically stable, easy to fly and experimental.
+The primary goal of the Phase 1 Airframe development is to focus on prooving out the concepts of the project.  The attributes of a test-bed aircraft is that it be simple yet mechanically robust (space for equipment), seats two for pilot and test engineer, aero-dynamically stable, easy to fly and experimental.
 
 Candidate airframes;
 
