@@ -1,23 +1,18 @@
 # Aviation Primary Principals
 
-This project sets to make an order-of-magnatude improvement in small aircraft safety.  Seconbary goals include damatically lowering the bar for learning and operating small aircraft.
+This project sets to make an order-of-magnatude improvement in small aircraft safety.  Secondary goals include damatically lowering the bar for learning and operating small aircraft.
 
 # Yesterday and Today
 
-Aviation has a varied safety history.  Through rigourous controls, learning and testing large aircraft have become very very safe.  Too few of these aspects have trickled down to small aircraft.  This is due to cost and complexity.  Yet it's these small aircraft where all pilots are made and still the safety of any given General Aviation light aircraft is dubous at best.
+Aviation has a varied safety history.  Through rigourous controls, learning and testing large aircraft have become very very safe.  Too few of these aspects have trickled down to small aircraft.  This is due to cost and complexity.  Yet it's these light aircraft where all pilots are made and still the safety of any light aircraft poor.
 
 Here is the summary of the 27th 2017-2018 Nall Report;
 
-Other or unknown 10.4% - 101 
-So, if we're honest there's not much anyone can do about these, at some level, aviation has risks, we should acknowledge we can't resolve all problems, but maybe some of these "unknown" accidents might not have happened if the airplane hadn't been in the wrong place at the wrong time. 
+_Other or unknown 10.4% - 101 Total_ - So, if we're honest there's not much anyone can do about these, at some level, aviation has risks, we should acknowledge we can't resolve all problems, but maybe some of these "unknown" accidents might not have happened if the airplane hadn't been in the wrong place at the wrong time. 
 
-Mechanical  15.7%  - 152
+_Mechanical  15.7% - 152 Total_ - Many mechanical accidents are avoidable with purposely build and tested 100% redundancy at all levels.
 
-Many mechanical accidents are avoidable with purposely build and tested 100% redundancy at all levels.
-
-Pilot-related  73.8% - 714
-
-This is entirely unacceptable and avoidable.  If you take away nothing from the Nall report, every pilot should recognize theya re the weakest and most important link in aviation safety.  This project attempts to fix that.
+_Pilot-related  73.8% - 714_ - This is entirely unacceptable and avoidable.  If you take away nothing from the Nall report, every pilot should recognize theya re the weakest and most important link in aviation safety.  This project attempts to fix that.
 
 The Nall report has been trending safer for decades... many in the industry site Electronic cockpits and ballistic parachutes, while I agree they are good, I do not think they are enough.  There's no excuse for fuel starvation or CFIT 100+ years after kitty hawk.
 
