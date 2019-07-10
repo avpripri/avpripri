@@ -22,7 +22,7 @@ This project is founded on the principal that an order of magnitude improvement 
 
 ## Imagine how...
 
-You come out to the airfield to see your beutiful airplane, give it one walk around only looking for any gross damage then hop in.  That's your entire pre-flight.  Push on both brakes and hit the "Power" button and the displays comes alive as diagnostics begin.  It will run a complete check on all electrical, then oil-levels, tire pressure, control system, brakes and finally fuel systems checking.  It noticed you filled up after you shut down and reset the fuel to a couple gallons under full where you left it.
+You come out to the airfield to see your beutiful airplane again.  You give it one cursory walk around only looking for any gross damage then hop in.  That's your entire pre-flight.  Push on both brakes for a moment and the displays comes alive as diagnostics begin.  It will run a complete check on all electrical, then oil-levels, tire pressure, control system, brakes and finally fuel systems checking.  It noticed you filled up after you shut down and reset the fuel to a couple gallons under full where you left it.
 
 With diagnostics complete, the system asks..
 
@@ -30,11 +30,11 @@ With diagnostics complete, the system asks..
 
 You pull your headset on, press the "Push to Listen" (PTL) button and say
 
-"I'm headed to the northeast practice area."
+You say, "Northeast practice area"
 
 The situation display shows where you are on the ramp, and paints a blue line to the active runway.  It highlights 122.80 frequency selected and prompts...
 
-Airplane; "If the area clear, say 'N12345 Taxing for runway 24 via Alpha' on the tuned Unicom frequency"
+"If the area clear, say 'N12345 Taxing for runway 24 via Alpha' on the tuned Unicom frequency"
 
 You do as directed, the strobes turn on and few moments later the prop starts to spin at a wisper then a whir as the wheels ease forward and turn towards Alpha taxiway.  En-route you hear the generator start-up, the flight controls go to full stops and you notice the brakes actuate under a heavier propellor load.  The monitor confirms it's running the pre-flight checks on the taxi.  It all calms down as you turn down the long taxiway and the system prompts you...
 
@@ -52,11 +52,11 @@ The motors roars to life as the airframe strains against the brakes holding it b
 
 "Airspeed 30...40..45... All green, rotate"
 
-You speed up briskly down the runway and the nose raises
+You speed up briskly down the runway and ease back as the airplane says rotate and the nose of the plane raises above the horizon... wheels off.
 
-"All green... 50 feet, straight ahead"
+"Wheels off... All green... 50 feet, straight ahead"
 
-The field to the left is obviously nice and wide open a good spot to land if I had to.  The monitor shows it on the airport map and the words "Warning - Terrain"
+The field to the left is obviously nice and wide open a good spot to land if one had to.  The monitor shows it painted in faint translucent green in the airport map and the words The tall trees and hill to the right are in red and "Warning - Terrain" is displayed nearby.
 
 "All green... 200 feet, straight ahead"
 
