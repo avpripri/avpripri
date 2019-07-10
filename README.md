@@ -34,13 +34,13 @@ You say, "Northeast practice area"
 
 The situation display shows where you are on the ramp, and paints a blue line to the active runway.  It highlights 122.80 frequency selected and prompts...
 
-"If the area clear, say 'N12345 Taxing for runway 24 via Alpha' on the tuned Unicom frequency"
+"If the area is clear, say 'N12345 Taxing for runway 24 via Alpha' on the tuned Unicom frequency"
 
 You do as directed, the strobes turn on and few moments later the prop starts to spin at a wisper then a whir as the wheels ease forward and turn towards Alpha taxiway.  En-route you hear the generator start-up, the flight controls go to full stops and you notice the brakes actuate under a heavier propellor load.  The monitor confirms it's running the pre-flight checks on the taxi.  It all calms down as you turn down the long taxiway and the system prompts you...
 
-"All systems are operating normally.  There is no observed traffic on TCAS, if the runway is clear, announce 'N12345 North-east VFR departing runway 24 from Alpha'"
+"All systems are operating normally. There is no observed traffic on TCAS.  Winds are 5 knots at 220, 20 degrees off the left with a cross-wind component of 2 knots, density altitude is 812 feet, sky is clear.  If the runway is clear, announce 'N12345 North-east VFR departing runway 24 from Alpha'"
 
-You look around and see there's a buetiful old yellow Cub on final. As you get closer to the hold short, the airplane stops and waites.  Finally the Cub clear the runway and you announce as instructed.
+You look around and see there's a buetiful old yellow Cub on final. As you get closer to the hold short, the airplane stops itself and waites.  Finally the Cub clears the runway and you announce as instructed.
 
 You see on the display a big "Ready for Takeoff" as the propeller whirs to life again and you slide into position on the runway.  As the plane comes to a stop, it says...
 
