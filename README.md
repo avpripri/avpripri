@@ -22,7 +22,7 @@ The Nall report has been trending safer for decades... many in the industry site
 
 This project is founded on the principal that an order of magnitude improvement in overall light aircraft aviation safety is obviously achievable.  That's 97 accidents where we have 967 today.  But to do that it requires a "first principal" approach.  Strip down the aircraft, what it does how it functions and what the pilots role is in and out of the cockpit. 
 
-... Second principal; General aviation is not at all generally accessible.  The bar needs to be lower financially, technically and raised around inherent safety.
+... Second principal; General aviation is not at all generally accessible.  As we raise the safety bar, we needs to lower financial and skills bar.  Any five year old can fly a plane, it's not at all hard... It's very hard to fly a plane safely.  Pilots that can't afford to fly often, don't fly well.  It's a viscous cycle.
 
 ## Imagine how...
 
