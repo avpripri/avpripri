@@ -51,9 +51,9 @@ Configurations
 - Twin inline
 
 ## ICE
-Pros - Simple, well known
+Pros - Well known technology, endurance
 
-Cons - Flying single engine is tricky, additional licensing
+Cons - fuel cost, unreliable, maintenance, complexity, difficult to automate (FADEC)
 
 ## Pure Electric 
 Pros - Ultra reliable, simplest possible solution
@@ -72,9 +72,9 @@ Cons - Propellor and crankshaft are a common failure mode
 ### Electric Motors + ICE Generator Set
 ![Freepiston Geneator](./resources/freepiston_genset.jpeg)
 
-Pros - Ultra-reliable, can utilize purpose build "genset" with high efficiency.
+Pros - Reliability, "genset" is more efficient than ICE.
 
-Cons - Heavy (motors, props, generator and engine), twin engine requires additional rating
+Cons - Operating cost(fuel), Heavy (motors, props, generator and engine), modestly complex, maintenace
 
 ## Single Prop
 Pros - Very simple, easy to fly.  Can be connected to a "dual" motor to add some power redundancy.
@@ -106,7 +106,7 @@ Since it needs to fly and airplanes fly on money... The hybrid ICE + Electric mo
 
 Fuel system are best which have the following traits;
 
-- Simple (one tank per engine)
+- One tank per engine
 - Gravity fed
 
 Note some options are low-wings, but given the powerplant configuration, we may still should be able to gravity feed if the fuel is located near or above the ICE.
