@@ -52,10 +52,12 @@ Configurations
 
 ## ICE
 Pros - Simple, well known
+
 Cons - Flying single engine is tricky, additional licensing
 
 ## Pure Electric 
 Pros - Ultra reliable, simplest possible solution
+
 Cons - range = weight... very limitted missions without weight penalty
 
 ## Hybrids
@@ -64,28 +66,34 @@ Cons - range = weight... very limitted missions without weight penalty
 ![Corvair](./resources/corvair.jpeg)
 
 Pros - Cheapest, easy to fly (no special ratings), lightweight, can replace starter/alternator, immediate and simple failure mode
+
 Cons - Propellor and crankshaft are a common failure mode
 
 ### Electric Motors + ICE Generator Set
 ![Freepiston Geneator](./resources/freepiston_genset.jpeg)
 
 Pros - Ultra-reliable, can utilize purpose build "genset" with high efficiency.
+
 Cons - Heavy (motors, props, generator and engine), twin engine requires additional rating
 
 ## Single Prop
 Pros - Very simple, easy to fly.  Can be connected to a "dual" motor to add some power redundancy.
+
 Cons - Single point of propulsion failure
 
 ## Co-Axial Prop Pair
 Pros - Allows dual motors, still easy to fly, graceful failure
+
 Cons - Because both props share the same space, failure of one can catastrophicaly fail the second.
 
 ## Twin side-by-side
 Pros - Relatively efficient, proven acceptable failure modes
+
 Cons - Additional skills required to manage failure modes
 
 ## Twin inline
 Pros - Proven failure modes, failure mode
+
 Cons - Logistically challenging, can be innificient
 
 ## Summary
