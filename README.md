@@ -20,9 +20,22 @@ The Nall report has been trending safer for decades... many in the industry site
 
 ## First Principal
 
-This project is founded on the principal that an order of magnitude improvement in overall light aircraft aviation safety is obviously achievable.  That's 97 accidents where we have 967 today.  But to do that it requires a "first principal" approach.  Strip down the aircraft, what it does how it functions and what the pilots role is in and out of the cockpit. 
+In order push through incrimental and become disruptive, we have to dissassemble the core aviation "Whys".  Why are people flying, why are people learning to fly.
 
-... Second principal; General aviation is not at all generally accessible.  As we raise the safety bar, we needs to lower financial and skills bar.  Any five year old can fly a plane, it's not at all hard... It's very hard to fly a plane safely.  Pilots that can't afford to fly often, don't fly well.  It's a viscous cycle.
+From theres tenants, we rebuild, ground-up, from new assumptions and new decisions without old paradigms and solutions.  
+
+## Priorities
+
+These priorities attempt to directly address that general aviation is not at all generally accessible; 
+
+_Safety_ - This project is founded on the principal that an order of magnitude improvement in overall light aircraft aviation safety is obviously achievable.  That's 97 accidents where we have 967 today.  But to do that it requires a "first principal" approach.  Strip down the aircraft, what it does how it functions and what the pilots role is in and out of the cockpit. 
+
+_Easy_ - Any five year old can fly a plane, it's not at all hard... It's very hard to fly a plane safely.  Fully intengrated always on envelope protection, stability as well as "designed-in" skills bulding exercises are key to flattening the learning curve and enabling pilots to gain the skills at their own pace in a totaly objective, safe environment.
+
+_Affordable_ - Pilots that can't afford to fly often, don't fly well.  How can safety improvements and new technologies change the equation to the leve we see dramaticly cheaper flight hours?  (<30$ USD/hr)
+
+
+... Second principal; General aviation is not at all generally accessible.  As we raise the safety bar, we needs to lower financial and skills bar.  Any five year old can fly a plane, it's not at all hard... It's very hard to fly a plane safely.  
 
 ## Imagine how...
 
