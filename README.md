@@ -1,5 +1,7 @@
 # Aviation Primary Principals
 
+_Disrupting General Aviation assessability by making it safer, easier and more affordable_
+
 This project sets to make an order-of-magnatude improvement in small aircraft safety.  Secondary goals include damatically lowering the bar for learning and operating small aircraft.
 
 ## Yesterday and Today
