@@ -39,34 +39,56 @@ Goals;
 1. Simple
 1. Meeting mission goals
 
-Proposals;
-- Traditional aircraft engine(s)
-- Hybrid ICE + Electric motor
-- Electric Motors + ICE generator
-- All Electric
+Engine Technology
+- Intenral Combustion Engine (ICE)
+- Electric
+- Many flavors of "Hybrid"
 
-## Traditional light twin 
+Configurations
+- Single Prop
+- Co-axial Prop Pair
+- Twin horiztonal
+- Twin inline
+
+## ICE
 Pros - Simple, well known
 Cons - Flying single engine is tricky, additional licensing
 
-## Hybrid ICE + Electric Motor
+## Pure Electric 
+Pros - Ultra reliable, simplest possible solution
+Cons - range = weight... very limitted missions without weight penalty
+
+## Hybrids
+
+### ICE with Electric Motor
 ![Corvair](./resources/corvair.jpeg)
 Pros - Cheapest, easy to fly (no special ratings), lightweight, can replace starter/alternator, immediate and simple failure mode
 Cons - Propellor and crankshaft are a common failure mode
 
-## Electric Motors + ICE Generator 
+### Electric Motors + ICE Generator Set
 ![Freepiston Geneator](./resources/freepiston_genset.jpeg)
-
 Pros - Ultra-reliable, can utilize purpose build "genset" with high efficiency.
 Cons - Heavy (motors, props, generator and engine), twin engine requires additional rating
 
-## Co-axial All electric 
-Pros - Ultra reliable, simplest possible solution
-Cons - Very limitted range (limitted mission), Some propellor/axle common mode failures.
+## Single Prop
+Pros - Very simple, easy to fly.  Can be connected to a "dual" motor to add some power redundancy.
+Cons - Single point of propulsion failure
+
+## Co-Axial Prop Pair
+Pros - Allows dual motors, still easy to fly, graceful failure
+Cons - Because both props share the same space, failure of one can catastrophicaly fail the second.
+
+## Twin side-by-side
+Pros - Relatively efficient, proven acceptable failure modes
+Cons - Additional skills required to manage failure modes
+
+## Twin inline
+Pros - Proven failure modes, failure mode
+Cons - Logistically challenging, can be innificient
 
 ## Summary
 
-If weight and money wasn't a thing... A coaxial dual-electric with removable ICE generator for cross countries likely meets the objectives best.
+If weight and money wasn't a thing... A side-by-side twin electric with removable ICE generator for cross countries likely meets the objectives best.
 
 Since it needs to fly and airplanes fly on money... The hybrid ICE + Electric motor option is a good light/cheap/simple compramise.
 
