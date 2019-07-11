@@ -22,19 +22,21 @@ The Nall report has been trending safer for decades... many in the industry site
 
 This project is founded on the principal that an order of magnitude improvement in overall light aircraft aviation safety is obviously achievable.  That's 97 accidents where we have 967 today.  But to do that it requires a "first principal" approach.  Strip down the aircraft, what it does how it functions and what the pilots role is in and out of the cockpit. 
 
+... Second principal; General aviation is not at all generally accessible.  The bar needs to be lower financially, technically and raised around inherent safety.
+
 ## Imagine how...
 
 You come out to the airfield to see your beutiful airplane again.  You give it one cursory walk around only looking for any gross damage then hop in.  That's your entire pre-flight.  Push on both brakes for a moment and the displays comes alive as diagnostics begin.  It will run a complete check on all electrical, then oil-levels, tire pressure, control system, brakes and finally fuel systems checking.  It noticed you filled up after you shut down and reset the fuel to a couple gallons under full where you left it.
 
-With diagnostics complete, the system asks..
+With diagnostics complete, using the onboard weight sensors, the system asks..
 
-"What is your mission today?"
+"Weight is 1237 pounds, 224 pounds under gross, balance is 23% aft of forward limit, we have 4hrs and 23 minutes of cruise fuel onboard.  What is your mission today?"
 
 You pull your headset on, press the "Push to Listen" (PTL) button and say
 
 You say, "Northeast practice area"
 
-The situation display shows where you are on the ramp, and paints a blue line to the active runway.  It highlights 122.80 frequency selected and prompts...
+The situation display shows where you are on the ramp, and paints a blue line to the active runway.  It highlights 122.8 frequency selected and prompts...
 
 "If the area is clear, say 'N12345 Taxing for runway 24 via Alpha' on the tuned Unicom frequency"
 
