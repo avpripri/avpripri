@@ -62,11 +62,13 @@ Cons - range = weight... very limitted missions without weight penalty
 
 ### ICE with Electric Motor
 ![Corvair](./resources/corvair.jpeg)
+
 Pros - Cheapest, easy to fly (no special ratings), lightweight, can replace starter/alternator, immediate and simple failure mode
 Cons - Propellor and crankshaft are a common failure mode
 
 ### Electric Motors + ICE Generator Set
 ![Freepiston Geneator](./resources/freepiston_genset.jpeg)
+
 Pros - Ultra-reliable, can utilize purpose build "genset" with high efficiency.
 Cons - Heavy (motors, props, generator and engine), twin engine requires additional rating
 
