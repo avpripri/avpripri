@@ -179,7 +179,11 @@ It is taking in all of the above factors (and more) to asses risk which gives or
 
 _Machines don't make machines safer, look at the 737 Max_  Flawed redundancy which actually doubles the failure modes are fatal.  ie.. multi-engines that can't climb on one engine.  Any redundent system must be tested for partial and total failure modes.  No partial failure mode should cause additional failures or total loss of any one system.
 
-_The more you take the pilot out of the loop, flying won't be fun_  If you have plenty of altitude and weather is great and you stay inside the envlope, the plane will let you do anything you want.  Loops, rolls, etc if aerobatics is in the envelope.  But as you get lower, slower in weather... you'll find progressively less and less control.
+_The more you take the pilot out of the loop, flying won't be fun_  If you have plenty of altitude in good weather, the flight control system will allow most abrupt manuevers inside the safe flight envelope.  But as you get lower, slower or into weather... you'll find progressively less and less control and more and more feedback as you deviate from the flight plan.
+
+_What if the flight control system goes hay-wire and starts flying nuts?_  The flight control system will be the most redundent system with designed-in failure recovery and it will be very heavily tested.  The likelyhood of this happening should be low, but it can and will happen.  The pilot still have direct physical control, you can still land the aircraft.  
+
+_If everything is electric, what if that fails too?_  The electric system is designed for failure as well, but everything can fail. THe electric motor controller will have it's own independent and backed-up power supply from the high voltage and should continue to operate the  electric motor.  If that should also be faulty, the airplane can still glide to a forced landing.
 
 # Proof of concept vehicle
 
