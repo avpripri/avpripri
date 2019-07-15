@@ -39,34 +39,66 @@ Goals;
 1. Simple
 1. Meeting mission goals
 
-Proposals;
-- Traditional aircraft engine(s)
-- Hybrid ICE + Electric motor
-- Electric Motors + ICE generator
-- All Electric
+Engine Technology
+- Intenral Combustion Engine (ICE)
+- Electric
+- Many flavors of "Hybrid"
 
-## Traditional light twin 
-Pros - Simple, well known
-Cons - Flying single engine is tricky, additional licensing
+Configurations
+- Single Prop
+- Co-axial Prop Pair
+- Twin horiztonal
+- Twin inline
 
-## Hybrid ICE + Electric Motor
+## ICE
+Pros - Well known technology, endurance
+
+Cons - fuel cost, unreliable, maintenance, complexity, difficult to automate (FADEC)
+
+## Pure Electric 
+Pros - Ultra reliable, simplest possible solution
+
+Cons - range = weight... very limitted missions without weight penalty
+
+## Hybrids
+
+### ICE with Electric Motor
 ![Corvair](./resources/corvair.jpeg)
+
 Pros - Cheapest, easy to fly (no special ratings), lightweight, can replace starter/alternator, immediate and simple failure mode
+
 Cons - Propellor and crankshaft are a common failure mode
 
-## Electric Motors + ICE Generator 
+### Electric Motors + ICE Generator Set
 ![Freepiston Geneator](./resources/freepiston_genset.jpeg)
 
-Pros - Ultra-reliable, can utilize purpose build "genset" with high efficiency.
-Cons - Heavy (motors, props, generator and engine), twin engine requires additional rating
+Pros - Reliability, "genset" is more efficient than ICE.
 
-## Co-axial All electric 
-Pros - Ultra reliable, simplest possible solution
-Cons - Very limitted range (limitted mission), Some propellor/axle common mode failures.
+Cons - Operating cost(fuel), Heavy (motors, props, generator and engine), modestly complex, maintenace
+
+## Single Prop
+Pros - Very simple, easy to fly.  Can be connected to a "dual" motor to add some power redundancy.
+
+Cons - Single point of propulsion failure
+
+## Co-Axial Prop Pair
+Pros - Allows dual motors, still easy to fly, graceful failure
+
+Cons - Because both props share the same space, failure of one can catastrophicaly fail the second.
+
+## Twin side-by-side
+Pros - Relatively efficient, proven acceptable failure modes
+
+Cons - Additional skills required to manage failure modes
+
+## Twin inline
+Pros - Proven failure modes, failure mode
+
+Cons - Logistically challenging, can be innificient
 
 ## Summary
 
-If weight and money wasn't a thing... A coaxial dual-electric with removable ICE generator for cross countries likely meets the objectives best.
+If weight and money wasn't a thing... A side-by-side twin electric with removable ICE generator for cross countries likely meets the objectives best.
 
 Since it needs to fly and airplanes fly on money... The hybrid ICE + Electric motor option is a good light/cheap/simple compramise.
 
@@ -74,7 +106,7 @@ Since it needs to fly and airplanes fly on money... The hybrid ICE + Electric mo
 
 Fuel system are best which have the following traits;
 
-- Simple (one tank per engine)
+- One tank per engine
 - Gravity fed
 
 Note some options are low-wings, but given the powerplant configuration, we may still should be able to gravity feed if the fuel is located near or above the ICE.
@@ -85,7 +117,9 @@ Regardless of tank configuration all tanks will have a capacitive sensor and a s
 
 _Dual redundant electrical systems_  There are many great source for redundant electrica systems.  I will defer to those.  They are not hard to build or understand, they do require some additional considerations.
 
-_Switchless_ The entire electrical system will be actuated by PCS-fuse-issolated and solid-state or mechanical relays controlled by the electrical management system.  There will only be one bat switch in the cockpit labelled "Master/Essential/Off".  All other switching will be fuse issolated and actuated by the electrical management system.  This includes;
+![panel](./resources/panel.png)
+
+_Switchless_ The entire electrical system will be actuated by PTS-fuse-issolated and solid-state or mechanical relays controlled by the electrical management system.  There will only be one bat switch in the cockpit labelled "Master/Essential/Off".  All other switching will be fuse issolated and actuated by the electrical management system.  This includes;
 
 - Charge source(s) disable for DC-DC converter
 - Flight control master
