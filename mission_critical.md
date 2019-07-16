@@ -1,20 +1,20 @@
-#Hardware
+# Hardware
 
 Many of the systems discussed actually imply a life-critical requirement.  If the flight computer fails for any reason, reboots and stop working... a student pilot could die.  Creating systems to this level of quality is extraordinarily difficult.  A bottom-up approach that attempts brutally simplistic redundancy is an oximoron.  But that is the stated goal. What is the simplest life-critical architecture?
 
-##Sensors
+## Sensors
 
 All life-critical sensors are doubled.
 
-##Actuators
+## Actuators
 
 All life-critical actuators are doubled
 
-##Signal
+## Signal
 
 All signals generated from life-critical sensors or actuators are triple redundent and vote.
 
-#Software
+# Software
 
 The software approach for life-critical systems should compliment but not neccissarily mimic the hardware approach.  The software is going to become exceedingly complex... there's a falicy that "fault tolerant" code is safer code.  Unless foundational pieces are put in place to ensure that fault tolerance, this assumes a false sense of security. 
 
