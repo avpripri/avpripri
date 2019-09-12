@@ -1,6 +1,6 @@
-# Electrical System from ground-up
+# Aviation electrical system from ground-up
 
-So what would an electrical system look like if you wanted to start over?  
+So what would the low-voltage aircraft electrical system look like if you wanted to start over?  
 
 1. Should be on a PCB, not wired by hand
 1. Should directly and correctly support dual battery/essential bus
