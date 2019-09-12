@@ -25,13 +25,17 @@ This is a dual pole momentary switch, the first pole energizes an essential-bus 
 
 The second pole of the power switch is connected to the power management controller.  Hold the power button down for 10 seconds, then releasing, signals shutdown.  This instructs the power management controller to de-energize the essential latching relay to "off".  The power management controller will turn off the relay after a period of 5 minutes of engine off regardless.
 
-# Lights
+# Light system design
 
-Based on how lights are used, they dont't require a switch per set of lights... Their use is predictable.  For example;
+Based on how pilots use aircraft lighting system, there's no obvious requirement for dedicated indivual switches on each light sub-system.  Furthermore, the light management follows a very specific navigation need predictably by altitude and time of day as follows;
 
 - Nav - Always on
-- Strobe - Default on, unless selected off
-- Taxi - On at night
-- Landing - On at night bellow 1000', optionally can operates as Taxi as well 
+- Strobe - Default on, rarely selected off for flight inside clouds where it is a distraction (sensor sharp lighting spikes in the cockpit?)
+- Landing/Taxi - On at night below 1000'
 
-The master power controller will use the altitude information sent from the flight control computer to determine the above logic.  It will also 
+The master power controller will use the altitude information and time of day information sent from the flight control computer to determine the above logic.
+
+_Cockpit lighting_ is an independent low-energy LED system that is always powered directly off the essential bus and makes it's own light-level determination from ambient light sensor and pilot input (brighter/dimmer).
+
+So... what is the pilots experiance and input.  For the most part, they will never even think about the lighting system, it will just do what you need when you need it.  The only input the pilot gives is interior light level and turning the strobes off via the flight control system or dedicated soft-switch (tapping the power switch twice quickly?).
+
