@@ -15,7 +15,7 @@ So what would the low-voltage aircraft electrical system look like if you wanted
 
 # Electrical system on a board
 
-The most critical aspect of this system is the conceptual "electrical system on a board". Incorporating all electrical best-practices, in an "out of the box" already proven and tested way is far superior for electrical reliability than hand wiring switches.  It minimizes wire-fraying/failure, mis-wiring, rats-nesting, ground-looping, over/under voltage, alternator protection, circuit protection and generally puts all power related concerns in one place.  It also simplifies the integration of a microcontroller enhancing the benefits even more... 
+The most critical aspect of this system is the conceptual "electrical system on a board". Incorporating all electrical best-practices, in an "out of the box" already proven and tested way is far superior for electrical reliability than hand wiring switches.  It minimizes wire-fraying/failure, mis-wiring, rats-nesting, ground-looping, over/under voltage, alternator protection, circuit protection and generally puts all power related concerns in one place.  PCB traces cannot handle high currents, for that reason, the higher capacity buses on the PCB will be soldered in with additional bare wire.   It also simplifies the integration of a microcontroller enhancing the benefits even more... 
 
 ![Power Bus Board](resources/powerbus_board.png "Power Bus Board")
 
