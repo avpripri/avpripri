@@ -11,6 +11,8 @@ So what would the low-voltage aircraft electrical system look like if you wanted
 1. Turns itself off if you leave it on
 1. Is failure resistent, simple failures don't shut everything down
 
+![Power Bus Schematic](resources/PowerBus.png "Power Bus Schematic")
+
 # Electrical system on a board
 
 The most critical aspect of this system is the conceptual "electrical system on a board". Incorporating all electrical best-practices, in an "out of the box" already proven and tested way is far superior for electrical reliability than hand wiring switches.  It minimizes wire-fraying/failure, mis-wiring, rats-nesting, ground-looping, over/under voltage, alternator protection, circuit protection and generally puts all power related concerns in one place.  It also simplifies the integration of a microcontroller enhancing the benefits even more... 
