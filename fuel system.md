@@ -1,3 +1,5 @@
+While ideally aircraft would be powered by simpler and more reliable power plants, I do have opinion on how to improve the fuel system in the aircraft I'm already flying.
+
 Here's my current system and my first modification... hopefully this displays side-by-side for you.   The items in "blue" on the right are what is new/changing, anything black exists/stays.
 
 |  Current |  First Mod |
