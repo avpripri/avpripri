@@ -17,7 +17,7 @@ The most critical aspect of this system is the conceptual "electrical system on 
 
 # Electrical Power Management Controller (EPMC)
 
-This controller is the heart of the electrical power system and is responsible for powering on, monitoring both current loads, board temperatures, energizing lighting circuits and powering-down the aircraft.
+This controller is the heart of the electrical power system and is responsible for powering on, monitoring bus voltages, current loads and board temperatures, controls all lighting circuits and powering-down the aircraft.
 
 The controller will receive GPS information from the flight control system via serial bus (CAN or RS-485).  This will include height above ground and time of day.  This information will be used to manage the light system.  The controller can also receive explicit requests to turn on/off any switched  circuit (Strobe, Landing, Taxi & Aux).  It will broadcast current usage, temperature and switch status for other systems to monitor or dislay.
 
@@ -27,7 +27,7 @@ There's only one physical input to the enire electrical power system.  It can be
 
 This button is a momentary-on switch which directly energizes an essential-bus master latch relay.  Because this specific relay is the most critcal for energy delivery to the entire aircraft, a latching relay is chosen as once the circuit is energized it does not require energy to stay energized, so momentary drops in voltage/power will not turn off the entire system.  The non-essential bus relay is then energized off the essential bus using either a solid state or normal electro mechanical relay.
 
-## Power-down
+# Power-down
 
 Hold the power button down for 10 seconds, then releasing, signals a request to power-down the aircraft.  The EPMC can read the voltage on the essential latching relay and senses it's engagement.  Once released, this informs the EPMC to de-energize the essential latching relay to "off".  The EPMC will also turn off the relay after a period of 5 minutes of engine off, powering down and securing the aircraft's electrical system.  A seperate impact indicator (large forward accellerometer) attached to the EPMC will also trigger an electrical shut-down.
 
@@ -60,3 +60,7 @@ The batteries and alternator(s) will use dedicated traditional slow-blow fusing.
 
 The most dangerous common failure mode for an alternator's regulator is to go "unregulated", this happens when the regulator stops capping the voltage coming from the alternator and sends large voltages far beyond the specification for batteries and all system components.  It is critical that a backup over-voltage detection system engage within milliseconds to shut down the alternator at the source.  This is a well known circuit, but it will be incorporated into the power system as best practice for both alternator sources. 
 ci
+
+# Solid State Switches
+
+When possible, use solid-state (MOSFET transistor-based) switches.  While failure modes with solid state are abrupt, if protected and used within voltage and current parameters they have orders-of-magnitude longer life than mechanical relays.
