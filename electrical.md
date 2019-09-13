@@ -40,10 +40,17 @@ There are four modes of power down;
 3. Accident/extreme accelleration
 4. Undervoltage battery protection
 
-- Normal / Pilot requested shut-down: Hold the power button down for 10 seconds, then releasing, signals a request to power-down the aircraft. The EPMC can read the voltage on the essential latching relay and senses it's engagement.  Once released, this informs the EPMC to de-energize the essential latching relay to "off".  
-- Idle: The EPMC will also turn off the relay after a period of 5 minutes of engine off, powering down and securing the aircraft's electrical system.  
-- Accident: A seperate impact indicator (large forward accellerometer) attached to the EPMC will also trigger an electrical shut-down.
-- Low voltages: If the drops to the minimum battery voltage for more than 5 seconds, the system will shut down. 
+### Normal / Pilot requested shut-down
+Hold the power button down for 10 seconds, then releasing, signals a request to power-down the aircraft. The EPMC can read the voltage on the essential latching relay and senses it's engagement.  Once released, this informs the EPMC to de-energize the essential latching relay to "off".  
+
+### Idle
+The EPMC will also turn off the relay after a period of 5 minutes of engine off, powering down and securing the aircraft's electrical system.  
+
+### Accident 
+A seperate impact indicator (large forward accellerometer) attached to the EPMC will also trigger an electrical shut-down.
+
+### Low voltages
+If the drops to the minimum battery voltage for more than 5 seconds, the system will shut down. 
 
 # Light system design
 
