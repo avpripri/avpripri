@@ -28,16 +28,16 @@ Modern aircraft, with LED lighting and higher efficiency avionics use much less 
 
 | Description | Peak Load | Typical Load | Day VFR Cruise  |
 | ----------- | --------- | ------------ | --------------- |
-| Transceiver|  8|  1|  1
-Transponder|  4|  2|  2
-Navigation Lights|  1|  1|  0
-Strobe|  5|  1|  1
-Landing Light|  5|  5|  0
-Taxi Light|  5|  5|  0
-EFIS|  1|  1|  1
-EFI/Igntion|  2|  2|  2
-Fuel Pump(s)|  8|  4|  0
-|  Total|  22|  7 |
+| Transceiver|  8|  1|  1 |
+| Transponder|  4|  2|  2 |
+| Navigation Lights|  1|  1|  0 |
+| Strobe|  5|  1|  1 |
+| Landing Light|  5|  5|  0 |
+| Taxi Light|  5|  5|  0 |
+| EFIS|  1|  1|  1 |
+| EFI/Igntion|  2|  2|  2 |
+| Fuel Pump(s)|  8|  4|  0 |
+| |  Total|  22|  7 |
 
 Individual peak loads are useful for fuse sizing, but typical load total is how to size the alternator and main circuit bus loads.
 
