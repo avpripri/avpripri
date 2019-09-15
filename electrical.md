@@ -15,10 +15,31 @@ So what would the low-voltage aircraft electrical system look like if you wanted
 
 # Electrical system on a board
 
-The most critical aspect of this system is the conceptual "electrical system on a board". Incorporating all electrical best-practices, in an "out of the box" already proven and tested way is far superior for electrical reliability than hand wiring switches.  It minimizes wire-fraying/failure, mis-wiring, rats-nesting, ground-looping, over/under voltage, alternator protection, circuit protection and generally puts all power related concerns in one place.  PCB traces cannot handle high currents, for that reason, the higher capacity buses on the PCB will be soldered in with additional bare wire.   It also simplifies the integration of a micro-controller enhancing the benefits even more.  This is a big reason modern car wiring is far more reliable than everything before the 90's, despite at least 10x  more wires.  Auto manufactures figured this out in the 90's and board/connector/harness wiring is far more reliable than spaghetti wiring.
+Automobile manufactures figured this out in the 90's and board-connector-harness wiring is far more reliable than spaghetti wiring. Incorporating all electrical best-practices, in an "out of the box" already proven and tested repeatable circuit is far superior to  hand wiring switches.  While it may seem simpler, critical features of a highly reliable electric system are complicated and they are messy.  Better to organize the mess on a printed board. 
+
+In the end, it minimizes wire-fraying/failure, mis-wiring, rats-nesting, ground-looping, over/under voltage, alternator protection, circuit protection and generally puts all power related concerns in one place.  One down-side consideration; PCB traces cannot handle high currents, for that reason, the higher capacity buses on the PCB will be soldered in with additional bare wire, in extreme cases, dedicated jumper wires will be used.   It also simplifies the integration of a micro-controller enhancing the benefits even more.  
 
 This board is 4" x 3.2" (100mm x 800mm) 
 ![Power Bus Board](resources/powerbus_board.png "Power Bus Board")
+
+# Current Load Analysis
+
+Modern aircraft, with LED lighting and higher efficiency avionics use much less current than traditional aircraft... by half or more.  Here's a break-down of load by circuit (SWAG numbers);
+
+| Description | Peak Load | Typical Load
+| ----------- | --------- | ------------
+| Transceiver	| 8 | 1 |
+| Transponder|  4|  2  |
+| Navigation Lights|  1|  1  |
+| Strobe|  5|  1  |
+| Landing Light|  5|  5  |
+| Taxi Light|  5|  5  |
+| EFIS|  1|  1  |
+| EFI/Igntion|  2|  2  |
+| Fuel Pump(s)|  8|  4  |
+| |  Total|  22  |  
+
+Individual peak loads are useful for fuse sizing, but typical load total is how to size the alternator and main circuit bus loads.
 
 # Electrical Power Management Controller (EPMC)
 
