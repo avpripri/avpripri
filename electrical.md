@@ -11,8 +11,6 @@ So what would the low-voltage aircraft electrical system look like if you wanted
 1. Turns itself off if you leave it on
 1. Is failure resistant, simple failures don't shut everything down
 
-![Power Bus Schematic](resources/PowerBus.png "Power Bus Schematic")
-
 # Design
 
 ![Better Electrical System](resources/BetterElectrical.png "Better Electrical System")
@@ -24,6 +22,9 @@ So what would the low-voltage aircraft electrical system look like if you wanted
 1. The alternator is attached to the main battery with a fuse
 1. The essential battery/bus is fed current from the main batter / alternator via a diode
 1. If the alternator generates dangerously high voltage, a "crowbar" circuit shorts the alternator line and purposely blows the fuse connecting it to the main bus. 
+
+## Full Schematic
+![Power Bus Schematic](resources/PowerBus.png "Power Bus Schematic")
 
 # Electrical system on a board
 
