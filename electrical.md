@@ -13,6 +13,17 @@ So what would the low-voltage aircraft electrical system look like if you wanted
 
 ![Power Bus Schematic](resources/PowerBus.png "Power Bus Schematic")
 
+# Design
+
+![Better Electrical System](resources/BetterElectrical.png "Better Electrical System")
+
+## "boot" sequence and basic design
+1. Using a push-button switch, energize a latching/bistable relay.
+1. Relay connects the essential battery to the essential bus.
+1. The micro controller boots and energizes the TRIAC (transistor) which connects the main battery to the main bus
+1. The alternator is attached to the main battery with a fuse
+1. The essential battery/bus is fed current from the main batter / alternator via a diode
+
 # Electrical system on a board
 
 Automobile manufactures figured this out in the 90's and board-connector-harness wiring is far more reliable than spaghetti wiring. Incorporating all electrical best-practices, in an "out of the box" already proven and tested repeatable circuit is far superior to  hand wiring switches.  While it may seem simpler, critical features of a highly reliable electric system are complicated and they are messy.  Better to organize the mess on a printed board. 
