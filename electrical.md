@@ -23,6 +23,7 @@ So what would the low-voltage aircraft electrical system look like if you wanted
 1. The micro controller boots and energizes the TRIAC (transistor) which connects the main battery to the main bus
 1. The alternator is attached to the main battery with a fuse
 1. The essential battery/bus is fed current from the main batter / alternator via a diode
+1. If the alternator generates dangerously high voltage, a "crowbar" circuit shorts the alternator line and purposely blows the fuse connecting it to the main bus. 
 
 # Electrical system on a board
 
