@@ -179,6 +179,8 @@ _If everything is electric, what if that fails too?_  The electric system is des
 
 The project is going to convert a light homebuilt experimental aircraft for use as a test-bed for the overall concepts expressed in this page.  
 
+![Conceptual Architecture](https://docs.google.com/drawings/d/e/2PACX-1vRf7XpgTQ-mGMANlDBKdWsu2V8Kd2P-1pKBFdryPZWSIR5R45uyv3sI4wjZxiTYhQlgd-wIdy3-WySN/pub?w=960&h=720)
+
 ## Phase 1
 
 Acquire an airframe and develop the hardware. This includes 100% redundant;
