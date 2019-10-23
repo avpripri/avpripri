@@ -12,17 +12,17 @@ Any time I see a homebuilt with an "improving" a fuel system, I'm highly skeptic
 
 Fuel system "first principals" (why is it on an airplane?)
 
-1 - Holds fuel in a reservoir (tank)
-2 - Moves, filters, measures and precisely disperses fuel from the reservoir to the intake in all conditions of flight (climbing,descending, inverted) and other system conditions (master on/off)
+1. Holds fuel in a reservoir (tank)
+1. Moves, filters, measures and precisely disperses fuel from the reservoir to the intake in all conditions of flight (climbing,descending, inverted) and other system conditions (master on/off)
 
 I looked at each component and asked "why is this here?"  Can it be done differently?  What if a micro-controller took responsibility for controlling redundent fuel pumps more carefully (with feedback).
 
 These components didn't "have-to" to be there, if you think about it differently.
 
-1 - Fuel Valve
-2 - Bypass valves
-3 - Fuel Pressure regulator
-4 - Flow meter
+1. Fuel Valve
+1. Bypass valves
+1. Fuel Pressure regulator
+1. Flow meter
 
 ![Radical Fuel System](resources/radical.png "Radical Fuel System")
 
