@@ -21,7 +21,7 @@ First, get the HP-18 airworthy.. get a brake master cylinder and rig it.  Clean
 
 # burn the boats
 
-I already have a 25kw motor / controller designed for up to 100v.
+I already have a 25kw peak motor / controller designed for up to 100v.
 
 ## modifications
 
