@@ -96,7 +96,7 @@ To summarize the conversion;
   * How to charge/monitor these batteries?
   * How to monitor system health in-flight?
 
-# solar
+# phase 3
 
 Flexible solar panels can be found that produce 210w/m^2.  If you could cover the entire 10.5m^2 That's 2.2kw, not likely, but 1.8kw is.  So for every hour you soar you get back 18 minutes of cruise. The easiest way to think of it is that the panels add a net-effective 30mph "boost" to cruise.  More hours soaring, more total range.
 
