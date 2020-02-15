@@ -48,6 +48,8 @@ So all in, empty should go something like (570 + 400 + 30) = 1000 lbs.  Typic
 
 ## details
 
+<img src="./resources/hp18-layout.jpg" alt="HP-18 Layout"/>
+
 To summarize the conversion;
 
 * nose
