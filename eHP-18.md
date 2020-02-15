@@ -17,7 +17,12 @@ Gross weight: 970 lb (446 kg)</br>
 So, here's a plan... (not entirely certain yet, but I'm liking this more and more)
 
 # first
-First, get the HP-18 airworthy.. get a brake master cylinder and rig it.  Cleanup the wing corrosion and get it inspected.  Then fly it once or twice.  Now for the real work!
+First, get the HP-18 airworthy.. 
+* get a brake master cylinder and rig it.
+* cleanup the wing corrosion 
+* [install blue fly pressure sensors](https://blueflyvario.blogspot.com/2017/) I have experiance with this system, it works well. 
+* finish the "un-panel"; Find a tablet and configure XC-Soar with preasure gauges to make it airworthy.
+* get an inspection.  Then fly it once or twice.  Now for the real work!
 
 # burn the boats
 
