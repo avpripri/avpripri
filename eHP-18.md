@@ -32,9 +32,14 @@ Then fly it once or twice.  Now for the real work!
 
 # burn the boats
 
+<img src="./resources/25kw-motor.jpg" alt="HP-18 Layout"/>
+
 I already have a 25kw peak motor / controller designed for up to 100v.
 
 ## modifications
+
+<img src="./resources/hp-18-nose-motor.jpg" alt="HP-18 Layout"/>
+<img src="./resources/hp-18-profile-motor.jpg" alt="HP-18 Layout"/>
 
 I'm going to chop off the nose (includes the nose tow hook). I may find a place to mount the hook later, but for now... gone. 
 
