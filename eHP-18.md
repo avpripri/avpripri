@@ -21,8 +21,14 @@ First, get the HP-18 airworthy..
 * get a brake master cylinder and rig it.
 * cleanup the wing corrosion 
 * [install blue fly pressure sensors](https://blueflyvario.blogspot.com/2017/) I have experiance with this system, it works well. 
-* finish the "un-panel"; Find a tablet and configure XC-Soar with preasure gauges to make it airworthy.
-* get an inspection.  Then fly it once or twice.  Now for the real work!
+* Finish the "un-panel" 
+   * Wire power to tablet mount
+   * Find a tablet
+   * Setup XC-Soar
+   * Configure preasure gauges
+* Conditional Inspection
+
+Then fly it once or twice.  Now for the real work!
 
 # burn the boats
 
