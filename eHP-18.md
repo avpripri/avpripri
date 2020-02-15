@@ -34,7 +34,12 @@ To mount the wings, I'll need a jack for the 250 lbs!  
 ## batteries
 
 Here are the specs on the Tesla Model 3 battery module 23S46P
-100v nom11.7 kwh191 lbs11.5" wide3.5" tall67.5" long$2250+shipping each
+
+* 100v nom
+* 11.7 kwh
+* 191 lbs
+* 67.5" x 11.5" x 3.5" 
+* $2250+shipping each
 
 The Tesla modules come with a built in BMS, but I will need some way to charge it.  The batteries will be hooked in parallel, so I can charge them individually.  At this current draw (250A) these batteries will get thermal stress, so I will either have to cool or de-rate.  6k is 70A, that's very low thermal stress.  We'll see!
 
