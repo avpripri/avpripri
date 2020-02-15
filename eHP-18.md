@@ -48,7 +48,7 @@ So all in, empty should go something like (570 + 400 + 30) = 1000 lbs.  Typic
 
 # solar
 
-Flexible solar panels can be found that produce 260w/m^2.  If you could conver the entire 10.3m^2 That's 2.7kw, not likely, but 2kw is.  So for every hour you soar you get back 20 minutes of cruise. 
+Flexible solar panels can be found that produce 210w/m^2.  If you could cover the entire 10.5m^2 That's 2.2kw, not likely, but 1.8kw is.  So for every hour you soar you get back 18 minutes of cruise. The easiest way to think of it is that the panels add a net-effective 30mph "boost" to cruise.  More hours soaring, more total range.
 
 # missions
 23.4kwh of battery is a TON!  A cross country mission profile could look like... 
