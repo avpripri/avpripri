@@ -81,6 +81,17 @@ To summarize the conversion;
   * wire DC-DC convert to master 
   * wire DC-DC convert low voltage output to existing electrical system
   * carve wing cavity for batteries
+* other
+  * build a battery system monitor, with bluetooth that can connect to XCSoar to output;
+    * Battery Voltage
+    * Current
+    * Left/Right battery temp
+    * motor temp
+    * controller temp
+    * Master alarm
+  * build a throttle
+  * build a throttle position sensor that outputs Servo PWM for controller
+  * wire throttle sensor to motor control
 * open issues
   * How to charge/monitor these batteries?
   * How to monitor system health in-flight?
