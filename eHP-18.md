@@ -46,7 +46,11 @@ The Tesla modules come with a built in BMS, but I will need some way to charge i
 ## weight ballance and performance
 So all in, empty should go something like (570 + 400 + 30) = 1000 lbs.  Typical weight with me will be 1160. As the weight is in the wings, CG and flight loads are minimally impacted. Stall speed would be 10-15% higher.  For now I'll use a fixed two-blade prop, longest length that the gear will allow (54-60" seems about right).  Eventually I may design a folding system with the nose I cut off.
 
-# Missions
+# solar
+
+Flexible solar panels can be found that produce 260w/m^2.  If you could conver the entire 10.3m^2 That's 2.7kw, not likely, but 2kw is.  So for every hour you soar you get back 20 minutes of cruise. 
+
+# missions
 23.4kwh of battery is a TON!  A cross country mission profile could look like... 
 * full power for 2 minutes take-off
 * cruise-climb to 8,000' at 400 fpm on 15kw for 20 minutes
@@ -55,3 +59,6 @@ So all in, empty should go something like (570 + 400 + 30) = 1000 lbs.  Typic
 Figure 90kts cruise, total distance 300nm.  
 
 But this configuration lends itself to a new kind of mission as well...  Take off, cruise heading wherever the conditions are best locally that day, soar as you go.  End of the day power up and head home.  In theory, you could use 3.5hrs of power over 4-8hrs of power/gliding, using streets, one could several hundreds of miles in a day, find a charger and head home the next day.
+
+# competition
+This opens a whole new kind of avition competition... How far can you get in a day in an electric aircraft?  You'd have to optimize for atmospheric thermal efficiency (like a soaring competition), solar recharge rate (don't fly under the clouds) and charge management.  It would be very interesting to see where this could go.  
