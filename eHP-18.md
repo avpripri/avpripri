@@ -1,13 +1,13 @@
 # background
 The HP-18 is an amateur home-built pure glider, with the following specifications;
 
-Crew: One pilot
-Length: 23 ft 2.4 in (7.07 m)
-Wingspan: 49 ft 2 in (15.00 m)
-Wing area: 113 ft2 (10.5 m2)
-Aspect ratio: 21.4
-Empty weight: 470 lb (213 kg)
-Gross weight: 970 lb (446 kg)
+Crew: One pilot</br>
+Length: 23 ft 2.4 in (7.07 m)</br>
+Wingspan: 49 ft 2 in (15.00 m)</br>
+Wing area: 113 ft2 (10.5 m2)</br>
+Aspect ratio: 21.4</br>
+Empty weight: 470 lb (213 kg)</br>
+Gross weight: 970 lb (446 kg)</br>
 
 # plan
 So, here's a plan... (not entirely certain yet, but I'm liking this more and more)
