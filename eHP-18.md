@@ -84,6 +84,8 @@ To summarize the conversion;
 * build a battery system monitor, with bluetooth that can connect to XCSoar to output;
   * battery Voltage
   * current
+  * state of charge
+  * charge remaining
   * left/right battery temps
   * motor temp
   * controller temp
