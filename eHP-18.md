@@ -1,7 +1,7 @@
 # background
 The HP-18 is an amateur home-built pure glider, with the following specifications;
 
-![3-view](https://en.wikipedia.org/wiki/Schreder_HP-18#/media/File:Wiki_HP-18_3view.GIF "3-View")
+![3-view](../resources/1529px-Wiki_HP-18_3view.gif "3-View")
 
 Crew: One pilot</br>
 Length: 23 ft 2.4 in (7.07 m)</br>
