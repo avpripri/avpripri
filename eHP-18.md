@@ -46,6 +46,32 @@ The Tesla modules come with a built in BMS, but I will need some way to charge i
 ## weight ballance and performance
 So all in, empty should go something like (570 + 400 + 30) = 1000 lbs.  Typical weight with me will be 1160. As the weight is in the wings, CG and flight loads are minimally impacted. Stall speed would be 10-15% higher.  For now I'll use a fixed two-blade prop, longest length that the gear will allow (54-60" seems about right).  Eventually I may design a folding system with the nose I cut off.
 
+## details
+
+To summarize the conversion;
+
+* nose
+  * chop off the nose
+  * fabricate motor mounts
+  * mount motor
+  * find a prop
+  * build a nose cone
+* hv systems
+  * mount the controller
+  * mount battery fuses
+  * mount master on/off switch
+  * mount DC-DC converter
+  * wire charge connector to fuses
+  * wire the controller to master
+  * wire master to fuses
+  * wire battery to fuses
+  * wire DC-DC convert to master 
+  * wire DC-DC convert low voltage output to existing electrical system
+  * carve wing cavity for batteries
+* open issues
+  * How to charge/monitor these batteries?
+  * How to monitor system health in-flight?
+
 # solar
 
 Flexible solar panels can be found that produce 210w/m^2.  If you could cover the entire 10.5m^2 That's 2.2kw, not likely, but 1.8kw is.  So for every hour you soar you get back 18 minutes of cruise. The easiest way to think of it is that the panels add a net-effective 30mph "boost" to cruise.  More hours soaring, more total range.
