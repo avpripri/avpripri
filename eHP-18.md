@@ -33,9 +33,9 @@ To mount the wings, I'll need a jack for the 250 lbs!  
 
 ## batteries
 
-Here are the specs on the Tesla Model 3 battery module 23S46P
+Here are the specs on the Tesla Model 3 battery module 23S46P (scoured the web, not offical)
 
-* 100v nom
+* 82.8v nom
 * 11.7 kwh
 * 191 lbs
 * 67.5" x 11.5" x 3.5" 
