@@ -59,6 +59,18 @@ Here are the specs on the Tesla Model 3 battery module 23S46P (scoured the web, 
 
 The Tesla modules come with a built in BMS, but I will need some way to charge it.  The batteries will be hooked in parallel, so I can charge them individually.  At this current draw (250A) these batteries will get thermal stress, so I will either have to cool or de-rate.  6k is 70A, that's very low thermal stress.  We'll see!
 
+## BMS
+
+The Model 3 battery modules incorporate a "BMS", it's really just a board with some well known/documented chips that very accurately measure voltage and control ballancing resistors;
+
+Linear LTC6804 or (later models) Linear LTC681x
+
+They communicate over a well documented(by Linear) bus called isoSPI.
+
+[Follow this blog for more details](https://cabrioev.blogspot.com/)
+
+Given this is a well known protocol and the interfaces are all well known; either an open source or commercial supplier should be available shortly (if not already).
+
 ## weight ballance and performance
 So all in, empty should go something like (570 + 400 + 30) = 1000 lbs.  Typical weight with me will be 1160. As the weight is in the wings, CG and flight loads are minimally impacted. Stall speed would be 10-15% higher.  For now I'll use a fixed two-blade prop, longest length that the gear will allow (54-60" seems about right).  Eventually I may design a folding system with the nose I cut off.
 
