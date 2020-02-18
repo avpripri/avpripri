@@ -69,6 +69,8 @@ They communicate over a well documented(by Linear) bus called isoSPI.
 
 [Follow this blog for more details](https://cabrioev.blogspot.com/)
 
+NOTE: The 6804 has an internal thermostat, which given the proximity to the battery pack, is a reasonable way to measure battery temp.
+
 It is important to note that the 6804 will self-balance all 12-cells passively.  But with 23 cells total you need two 6804's.  Something has to actively tell each 6804 that it needs to engage the MOSFET balancing gates so each sub-pack doesn't "drift" high/low.
 
 The LTC6820 is a transceiver for the isoSPI bus.  There dev kits and at least one [dev module on ebay here](https://www.ebay.com/itm/Maleetronic-isoSPI-Module/254173328261?hash=item3b2de93385:g:xpIAAOSwJrpclM92)
