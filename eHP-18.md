@@ -79,6 +79,18 @@ What is needed is a "state of charge controller" with a 6820 isoSPI transciever 
 
 Given this is a well known protocol and the interfaces are all well known; either an open source or commercial supplier should be available shortly (if not already).
 
+## Charging
+
+The Tesla 21700 cells range from 3.0v (completely dead) to 4.2v (100% charge).  For a 23S battery system that's 69v - 96v.  There are many charging options, but the most bullet proof from my EV history is the Manzanita Micro PFC.  Every other option is probably cheaper, but given the unusual voltage range and the fully adjustable voltage out, I like this option best.
+
+## The "Brain" of the motor - battery - charging system
+
+Given all the above, something has to actually control the power system.  Here is the full system diagram
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vRLb9zrr1EoLyujqeeW3yl9RVL3msdvSa0meC2blGYz2gFWVmrMEzsfpBxKoq11M2-kDU3kM359RwKs/pub?w=1407&amp;h=614">
+
+The key points is that the component labelled "BMS" is the brains.  It gets all the sensor data includeing throtle position and outputs the ESC and bluetooth data to the tablet display.
+
 ## weight ballance and performance
 So all in, empty should go something like (570 + 400 + 30) = 1000 lbs.  Typical weight with me will be 1160. As the weight is in the wings, CG and flight loads are minimally impacted. Stall speed would be 10-15% higher.  For now I'll use a fixed two-blade prop, longest length that the gear will allow (54-60" seems about right).  Eventually I may design a folding system with the nose I cut off.
 
