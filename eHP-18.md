@@ -111,6 +111,8 @@ Some (many removed) of the ESP-32 specs;
 * 2 I2S interfaces
 * Wifi & Bluetooth
 
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vTmheya-vasb67ArJ-YWBI3y_XSwn1pgl7EuYCn6J8iIzklDkUf1yxKXuFxU83Ur0gZd21vWhV9hOOI/pub?w=1060&amp;h=497">
+
 The ESP32 can collect all power system data, transform it into meaningful information then send it over WiFi or Bluetooth to a tablet computer for display to the pilot.
 
 Information the system should provide is;
