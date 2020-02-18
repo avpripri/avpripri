@@ -79,17 +79,48 @@ What is needed is a "state of charge controller" with a 6820 isoSPI transciever 
 
 Given this is a well known protocol and the interfaces are all well known; either an open source or commercial supplier should be available shortly (if not already).
 
-## Charging
+## charged
 
 The Tesla 21700 cells range from 3.0v (completely dead) to 4.2v (100% charge).  For a 23S battery system that's 69v - 96v.  There are many charging options, but the most bullet proof from my EV history is the Manzanita Micro PFC.  Every other option is probably cheaper, but given the unusual voltage range and the fully adjustable voltage out, I like this option best.
 
-## The "Brain" of the motor - battery - charging system
+## brains
 
 Given all the above, something has to actually control the power system.  Here is the full system diagram
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vRLb9zrr1EoLyujqeeW3yl9RVL3msdvSa0meC2blGYz2gFWVmrMEzsfpBxKoq11M2-kDU3kM359RwKs/pub?w=1407&amp;h=614">
 
-The key points is that the component labelled "BMS" is the brains.  It gets all the sensor data includeing throtle position and outputs the ESC and bluetooth data to the tablet display.
+The key points is that the component labelled "BMS" is the brains.  It gets all the sensor data includeing throtle position and outputs battery-state-adjusted power requests.  
+
+This control must;
+
+* Input 3 Temperatur Thermistors with at least a 10-80C range
+* Input 1 Throttle Position Sensor (5k potentiometer)
+* Input 1 motor enable switch input
+* SPI Interface with LTC6820 transceiver
+* Output a PWM signal for motor controller (ESC)
+* Output Temparature and state of charge in some way
+
+Some (many removed) of the ESP-32 specs;
+* 240 MHz MCU / 514kb SRAM / 2Gb Flash storage
+* 18 Analog-to-Digital Converter (ADC) channels
+* 3 SPI interfaces
+* 3 UART interfaces
+* 2 I2C interfaces
+* 16 PWM output channels
+* 2 Digital-to-Analog Converters (DAC)
+* 2 I2S interfaces
+* Wifi & Bluetooth
+
+The ESP32 can collect all power system data, transform it into meaningful information then send it over WiFi or Bluetooth to a tablet computer for display to the pilot.
+
+Information the system should provide is;
+
+* Battery, Motor & Controller Tempatures
+* Measured current flow
+* State of Charge / Discharge
+* Throttle restrictions
+* All cell voltages (all 46)
+* Battery Health
 
 ## weight ballance and performance
 So all in, empty should go something like (570 + 400 + 30) = 1000 lbs.  Typical weight with me will be 1160. As the weight is in the wings, CG and flight loads are minimally impacted. Stall speed would be 10-15% higher.  For now I'll use a fixed two-blade prop, longest length that the gear will allow (54-60" seems about right).  Eventually I may design a folding system with the nose I cut off.
