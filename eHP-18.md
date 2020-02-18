@@ -69,6 +69,14 @@ They communicate over a well documented(by Linear) bus called isoSPI.
 
 [Follow this blog for more details](https://cabrioev.blogspot.com/)
 
+It is important to note that the 6804 will self-balance all 12-cells passively.  But with 23 cells total you need two 6804's.  Something has to actively tell each 6804 that it needs to engage the MOSFET balancing gates so each sub-pack doesn't "drift" high/low.
+
+The LTC6820 is a transceiver for the isoSPI bus.  There dev kits and at least one [dev module on ebay here](https://www.ebay.com/itm/Maleetronic-isoSPI-Module/254173328261?hash=item3b2de93385:g:xpIAAOSwJrpclM92)
+
+The Arduino library used to control the [LTC6804 is here](https://www.analog.com/en/search.html?q=LTSketchbook)
+
+What is needed is a "state of charge controller" with a 6820 isoSPI transciever to transmit each battery's status and actively control the sub-packs and be the master-enable on charging / drain.
+
 Given this is a well known protocol and the interfaces are all well known; either an open source or commercial supplier should be available shortly (if not already).
 
 ## weight ballance and performance
