@@ -117,12 +117,14 @@ The ESP32 can collect all power system data, transform it into meaningful inform
 
 Information the system should provide is;
 
+* Battery Voltage
+* Current
+* Power
 * Battery, Motor & Controller Tempatures
-* Measured current flow
 * State of Charge / Discharge
 * Throttle restrictions
-* All cell voltages (all 46)
-* Battery Health
+* All cell voltages
+* Battery Health (current total working capacity)
 
 ## weight ballance and performance
 So all in, empty should go something like (570 + 400 + 30) = 1000 lbs.  Typical weight with me will be 1160. As the weight is in the wings, CG and flight loads are minimally impacted. Stall speed would be 10-15% higher.  For now I'll use a fixed two-blade prop, longest length that the gear will allow (54-60" seems about right).  Eventually I may design a folding system with the nose I cut off.
