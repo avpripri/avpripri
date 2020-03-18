@@ -4,6 +4,13 @@ _Disrupting personal air travel; making it safer, easier and more affordable_
 
 This project sets to make an order-of-magnitude improvement in small aircraft safety.  Secondary goals include dramatically lowering the bar for learning and operating small aircraft.
 
+## New update...
+
+I have started working on the core systems which will make up this huge project.  It's called "BackFlip".  It has two projects
+
+[BackFlip IMU](https://github.com/avpripri/RTIMULib2) - Based on an Android re-port of the RTIMULib2 for STM32-based quad controllers 
+[BackFlip PFD](https://github.com/avpripri/BackFlip) - A better primary flight display
+
 ## Yesterday and Today
 
 Aviation has a varied safety history.  Through rigorous controls, learning and testing large aircraft have become very very safe.  Too few of these aspects have trickled down to small aircraft.  This is due to cost and complexity.  Yet it's these light aircraft where all pilots are made and still the safety of any light aircraft poor.
