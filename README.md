@@ -8,7 +8,8 @@ This project sets to make an order-of-magnitude improvement in small aircraft sa
 
 I have started working on the core systems which will make up this huge project.  It's called "BackFlip".  It has two projects
 
-[BackFlip IMU](https://github.com/avpripri/RTIMULib2) - Based on an Android re-port of the RTIMULib2 for STM32-based quad controllers 
+[BackFlip IMU](https://github.com/avpripri/RTIMULib2) - An Android-ized re-port of the RTIMULib2 for STM32 powered quad controllers 
+
 [BackFlip PFD](https://github.com/avpripri/BackFlip) - A better primary flight display
 
 ## Yesterday and Today
