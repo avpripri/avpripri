@@ -10,9 +10,9 @@ I have started working on the core systems which will make up this huge project.
 
 ![backflip](resources/betterflight2.jpg)
 
-[BackFlip IMU](https://github.com/avpripri/RTIMULib2) - An Android-ized re-port of the RTIMULib2 for STM32 powered quad controllers 
-
 [BackFlip PFD](https://github.com/avpripri/BackFlip) - A better primary flight display
+
+[BackFlip IMU](https://github.com/avpripri/RTIMULib2) - An Android-ized re-port of the RTIMULib2 for STM32 powered quad controllers 
 
 ## Yesterday and Today
 
