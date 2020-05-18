@@ -17,7 +17,7 @@ So what would the low-voltage aircraft electrical system look like if you wanted
 
 ## "boot" sequence and basic design
 1. Using a push-button switch, energize a latching/bistable relay.
-1. Relay connects the essential battery to the essential bus.
+1. Relay connects the essential battery to the main bus.
 1. The micro controller boots and energizes the TRIAC (transistor) which connects the main battery to the main bus
 1. The alternator is attached to the main battery with a fuse
 1. The essential battery/bus is fed current from the main batter / alternator via a diode
