@@ -52,21 +52,23 @@ You come out to the airfield to see your beautiful airplane again.  You give it 
 
 With diagnostics complete, the system asks..
 
-"Weight is 1237 pounds, 224 pounds under gross, balance is 23% aft of forward limit, you have no less than 2hrs and 23 minutes of fuel on board.  Winds are eight knots at 230, Temperature 23 dew point 20 celcius, sky clear bellow One-Zero thousand, pressure reports 30.03 and set.
+"Weight is 1237 pounds, 224 pounds under gross, balance is 23% aft of forward limit, you have no less than 2hrs and 23 minutes of fuel on board.  Winds are eight knots at two-three-zero, temperature 23 celcius dew point 20, sky clear bellow one-zero-thousand, pressure reports three-zero-zero-three and set. "
 
-What is your mission today?"
+"What is your mission today?"
 
-You pull your headset on, press the "Push to Listen" (PTL) button and say
+You pull your headset on, and look around the cockpit. It's very clean, just two very large display, vents, a stick and a throttle.  The core of the display bare a resemblance to the glass panel EFIS you might have seen in the first generation, but there are subtle diffences.  It's hard to put your finger on it, but it looks less mechanical.  There's no pixilated nameless tapes for dozens of inputs you couldn't absorb before anyway.  It's just what you care about right now.
 
-"North east practice area, 60 minutes"
+You take the smoothly simplicity of the displays in as you press the "Push to Listen" (PTL) button and state, "North east practice area, 60 minutes"
 
-The situation display shows where you are on the ramp, and paints a blue line to the active runway.  It highlights and sets the common traffic advisory frequency of 122.8 frequency and prompts;
+The display fades to a situation view and zooms to where you are on the ramp, and paints a magenta line to the active runway from your location.  At the same time a second window in your primary display pops up with a 3D rendering of your path from your location with the same magenta line and in the corner a redish area where the taxiway intersects another runway 13-31 hints at a high conflict intersection. The feeling is more automobile navigation in tone and context than your typical airport diagram slapped on a sectional chart. Seamlessly it highlights and flashes momentarily the common traffic advisory frequency it set to 122.8 and prompts;
 
-"The active runway is 24, the most direct routing is Alpha straight ahead and to your left"
+"The active runway is 24, the most direct routing is alpha straight ahead and to your left"
 
-Easing the throttle forward, the strobes turn on and few moments later the prop starts to spin at a whisper then a whir as the wheels ease forward and turn towards Alpha taxiway.  En-route you hear the generator start-up, the flight controls go to full stops and you notice the brakes actuate under a heavier propeller load.  The monitor confirms it's the pre-flight checks are being performed while you taxi.  It all calms back down as you turn down the long taxiway and the system prompts you...
+Easing the throttle forward, the strobes turn on and few moments later the prop starts to spin at a whisper then a whir as the wheels ease forward and turn towards Alpha taxiway.  En-route you hear the generator start-up, the flight controls go to full stops and you notice the brakes actuate under a heavier propeller load.  The monitor confirms it's the pre-flight checks are being performed while you taxi. As you approach the intersecting runway,
 
-"All systems are operating normally. There is no observed traffic on TCAS.  Winds are 5 knots at 220, 20 degrees off the left with a cross-wind component of 2 knots, density altitude is 812 feet, sky is clear.  Our direction of flight is a right turn north-east 030 VFR departing runway 24 from Alpha"
+"Approaching high confict area, alpha and runway one-three three-one"
+
+The gentle reminder to look around and check, and clear, so you proceed.  All calms as you turn down the long taxiway and the plane announces, "All systems are operating normally. There is no observed traffic on TCAS.  Winds are 5 knots at 220, 20 degrees off the left with a cross-wind component of 2 knots, density altitude is 812 feet, sky is clear.  Our direction of flight is a right turn north-east 030 VFR departing runway 24 from Alpha"
 
 With an clear approach, you once again ease the throttle forward as the display turns the mission phase prominently as "Ready for take off" in green, as you slide into position on the runway, the annunciator says;
 
