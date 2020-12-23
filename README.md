@@ -2,7 +2,7 @@
 
 _Disrupting personal air travel; making it safer, easier and more affordable_
 
-This project sets to make an order-of-magnitude improvement in small aircraft safety.  A first principals human re-factoring of the flying experianc, positively disrupting general aviation agnostic of aircraft design. Secondary goals include dramatically lowering the bar for learning and operating small aircraft.  
+This project sets to make an order-of-magnitude improvement in small aircraft safety.  A first principals human re-factoring of the flight experiance, positively disrupting general aviation and agnostic of aircraft design. Secondary goals include dramatically lowering the bar for learning and operating small aircraft.  
 
 ## New update...
 
