@@ -2,7 +2,7 @@
 
 _Disrupting personal air travel; making it safer, easier and more affordable_
 
-This project sets to make an order-of-magnitude improvement in small aircraft safety.  Secondary goals include dramatically lowering the bar for learning and operating small aircraft.
+This project sets to make an order-of-magnitude improvement in small aircraft safety.  A first principals human re-factoring of the flying experianc, positively disrupting general aviation agnostic of aircraft design. Secondary goals include dramatically lowering the bar for learning and operating small aircraft.  
 
 ## New update...
 
@@ -44,75 +44,77 @@ _Easy_ - Any ten year old can fly a plane on a nice day, it's not at all hard...
 
 _Affordable_ - Pilots that can't afford to fly often, aren't flying at their potential.  Many of the other goals of this project have secondary impacts to bottom line... IE an easier-to-fly and safer plane needs cheaper insurance.  The direct operating cost of electric aircraft is in single dollars per hour vs. hundred(s) for gasoline.  If it was $10/hr or $100 a day to rent an aircraft, I think we'd see entirely different use cases, even Uber-like commuter scenarios and metropolitan transport/commuter cases.
 
-## Imagine a differnt way...
+## A story of a different kind of flying experiance...
 
-You come out to the airfield to see your beautiful airplane again.  You give it one cursory walk around only looking for any gross damage then hop in.  That's your entire pre-flight.  Push on both brakes for a moment and the displays comes alive as diagnostics begin.  It will run a complete check on all electrical, then oil-levels, tire pressure, control system, brakes and finally fuel systems checking.  It noticed you filled up after you shut down and reset the fuel to a couple gallons under full where you left it.
+It's hard to imagine what a differet kind of flying experiance is like, so a story helps to frame the idea.
 
-With diagnostics complete, using the on-board-weight-sensors, the system asks..
+You come out to the airfield to see your beautiful airplane again.  You give it one cursory walk around only looking for any gross damage then hop in.  That's your entire pre-flight.  Push on both brakes for a moment and the displays comes alive as diagnostics begin.  It will run a complete check on all electrical, then oil-levels, tire pressure, control system, brakes, fuel quantity, and using strain gauges in the wheels, weight and balance.
 
-"Weight is 1237 pounds, 224 pounds under gross, balance is 23% aft of forward limit, we have 4hrs and 23 minutes of cruise fuel on board.  What is your mission today?"
+With diagnostics complete, the system asks..
+
+"Weight is 1237 pounds, 224 pounds under gross, balance is 23% aft of forward limit, you have no less than 2hrs and 23 minutes of fuel on board.  Winds are eight knots at 230, Temperature 23 dew point 20 celcius, sky clear bellow One-Zero thousand, pressure reports 30.03 and set.
+
+What is your mission today?"
 
 You pull your headset on, press the "Push to Listen" (PTL) button and say
 
-You say, "North east practice area"
+"North east practice area, 60 minutes"
 
-The situation display shows where you are on the ramp, and paints a blue line to the active runway.  It highlights 122.8 frequency selected and prompts...
+The situation display shows where you are on the ramp, and paints a blue line to the active runway.  It highlights and sets the common traffic advisory frequency of 122.8 frequency and prompts;
 
-"If the area is clear, say 'N12345 Taxing for runway 24 via Alpha' on the tuned Unicom frequency"
+"The active runway is 24, the most direct routing is Alpha straight ahead and to your left"
 
-You do as directed, the strobes turn on and few moments later the prop starts to spin at a whisper then a whir as the wheels ease forward and turn towards Alpha taxiway.  En-route you hear the generator start-up, the flight controls go to full stops and you notice the brakes actuate under a heavier propeller load.  The monitor confirms it's running the pre-flight checks on the taxi.  It all calms down as you turn down the long taxiway and the system prompts you...
+Easing the throttle forward, the strobes turn on and few moments later the prop starts to spin at a whisper then a whir as the wheels ease forward and turn towards Alpha taxiway.  En-route you hear the generator start-up, the flight controls go to full stops and you notice the brakes actuate under a heavier propeller load.  The monitor confirms it's the pre-flight checks are being performed while you taxi.  It all calms back down as you turn down the long taxiway and the system prompts you...
 
-"All systems are operating normally. There is no observed traffic on TCAS.  Winds are 5 knots at 220, 20 degrees off the left with a cross-wind component of 2 knots, density altitude is 812 feet, sky is clear.  If the runway is clear, announce 'N12345 North-east VFR departing runway 24 from Alpha'"
+"All systems are operating normally. There is no observed traffic on TCAS.  Winds are 5 knots at 220, 20 degrees off the left with a cross-wind component of 2 knots, density altitude is 812 feet, sky is clear.  Our direction of flight is a right turn north-east 030 VFR departing runway 24 from Alpha"
 
-The approach is clear, you do as instructed and the display a big "Ready for take off" as the propeller whirs to life again and you slide into position on the runway.  As the plane comes to a stop, it says...
+With an clear approach, you once again ease the throttle forward as the display turns the mission phase prominently as "Ready for take off" in green, as you slide into position on the runway, the annunciator says;
 
-"Ready for take off, in case of emergency on runway, apply brakes and come to a stop.  If air born and room to land, land on runway, bellow 600 land in the field to the left.  Above 600 a turn around is possible, say take off when ready."
+"Ready for take off, in case of emergency on runway, apply brakes and come to a stop.  If air born and room to land, land on runway, below 600 land in the field to the left.  Above 600 a turn around is possible."
 
-You press the PTL and announce "Take off!"
+You ease the throttle to full and the prop and generator roar to full power straining against the brakes with the command to "Hold Brakes" blinking yellow for eight seconds, long enough for one last system check, then "Release" goes green.  The brakes release and your pulled forward hurtling down the runway.
 
-The motors roars to life as the airframe strains against the brakes holding it back.  You realize there's one last full power check and right then, the brakes release and your pulled forward down the runway.
+"Airspeed 30...40..45... all good"
 
-"Airspeed 30...40..45... All green, rotate"
+You speed up briskly down the runway and ease back as the airplane finally anounces "rotate" and the nose of the plane raises above the horizon... wheels off.
 
-You speed up briskly down the runway and ease back as the airplane says rotate and the nose of the plane raises above the horizon... wheels off.
-
-"Wheels off... All green... 50 feet, straight ahead"
+"Wheels off 12:32... all good... 50 feet, straight ahead"
 
 The field to the left is obviously nice and wide open a good spot to land if one had to.  The monitor shows it painted in faint translucent green in the airport map and the words The tall trees and hill to the right are in red and "Warning - Terrain" is displayed nearby.
 
-"All green... 200 feet, straight ahead"
+"all good two hundred feet, straight ahead"
 
-"All green... 400 feet, straight ahead"
+"all good four hundred feet, straight ahead."
 
-"All green... 600 feet, turn-back available."
+"all good six hundred feet, turn-back available."
 
 The terrain warning clears
 
-"All green 1000... Turning Right 040..."
+"Turn right to a zero-four-zero heading."
 
-And the plane gently rolls to the right and starts a gentle standard rate turn
+You can't tell if you turned or the plane started, but either way your heading is turning clockwise in a gentle bank to the right.
 
-"All green 2000.. "
+"five-hundred feet to level at two-thousand-five-hundred."
 
 The wings level at 040 a moment later the nose pitches down
 
-"Level 2500"
+"Level two-thousand-five-hundred"
 
-You look around and enjoy the view as you head out to the practice area, you can feel the plane giving gengtle feedback.  You know you are in command, but it's really doing the leveling. If you try to turn it, it just resists and tries to head back on the blue line it's obediently following.
+You look around and enjoy the view as you head out to the practice area, you can feel the plane giving gengtle feedback.  You know you are in command, but it's really doing the leveling. If you try to turn it, the resistance is imperceptable, like feathers but it's definately trying to bring the plane to back to the magenta line it's obediently following. As you vacate the airport area, the departure frrequency is tuned into the back chanel and low-volume monitoring is turned on.
 
 "Arriving at the north east practice area, what maneuvers do you want to practice?"
 
 "Stalls"
 
-"OK, we'll need to clear the area first, start by doing two 90 degree turns in either direction"
+"OK, we'll need to clear the area first, start by doing a pair of 90 degree turns in either direction"
 
-You pull the stick left and the plane just follows along, there might be a little resistance, but it's letting you do your maneuvers.  As you level out it says...
+You pull the stick left and the plane just follows along, it's letting you do your maneuvers.  As you level out it says...
 
 "Ok, begin your stall by powering back, then apply progressive aft stick to stay level"
 
 You pull the throttle back and the propellers whirr gets a little lighter, you pull the elevator aft further.
 
-.. as the speed starts to bleed off, "Recovery is immediate full power and pitch the nose over gently".  
+.. as the speed starts to bleed off you look over and the flaps are deploying automatically as the airspeed decreases.  The plane interupts with, "Recovery is immediate full power and pitch the nose over gently".  
 
 The nose pops and the tail buffets as you hit the aft limit of the elevator travel.
 
@@ -122,15 +124,13 @@ But you're not very comfortable with stalls yet and you just freeze.  The airpla
 
 "Release controls!" is commanded abruptly in a harsh demanding voice.
 
-The airplane applies rudder to stop the spin that's started and coordinates power and enough elevator to recover as normal flight is restored.  Started you decide it's time to head back home...
-
-"What is the next maneuver you'd like to perform"
+The airplane applies rudder to stop the yaw rotation that's just bairly started and coordinates power and enough elevator to recover.  As normal flight is restored, the flaps retract and the plane is stabalized. The plane announces, "Normal flight restored, you may resume flight inputs. Wha tis the next maneuver you'd like to perform?"
 
 You say... "I'm done, let's head home"
 
-"Ok... Unicome is already tuned in, say 'N12345 15 miles to the north east with AWOS, proceeding inbound for full stop runway 24'" 
+"Unicom frequency is already tuned in, you're 15 miles to the north east, winds are 220 at 5, pressure is 30.03 and set, most appropriate runway is 24" 
 
-You comply but right then... you fade off and something dims it's not good.
+You comply, but then... you fade off and something dims it's not good.
 
 The airplane realises you're not responsive and your pulse is erratic.  It asks you twice to state your landing attempt, but you're out cold.
 
@@ -140,7 +140,7 @@ The airplane lands itself slows down and announces again...
 
 "N12345, emergency declared taxing from runway 24 via Alpha autonomously please clear all runways and taxiways and have emergency personnel available"
 
-The plane taxies to the tie down it started from, shuts down and waits as the ambulance pulls into the spot.  The doors open and they rescue you from what could have been fatal in several ways.
+The plane taxies to the ramp it started from, shuts down and waits as the ambulance pulls into the spot.  The doors open and they rescue you from what could have been fatal in several ways.
 
 ## The pilot
 
