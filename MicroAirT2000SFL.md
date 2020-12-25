@@ -55,7 +55,7 @@ Starting at position 4-8 are the transmitting code as ascii numbers 0x30 through
 
 ## Mode
 
-The mode is encoded in the 5th position and it is the asci leters;
+The mode is encoded in the 6th position and it is the asci leters;
 
 S - Standby
 A - Mode-A
@@ -63,7 +63,7 @@ C - Mode-C
 
 ## Ident
 
-Ident is encoded at the 6th position, it stays on for 10 seconds
+Ident is encoded at the 7th position, it stays on for 10 seconds
 
 I - Non-Ident
 S - Identing
@@ -72,5 +72,5 @@ S - Identing
 
 The final two bytes appear to be a checksum.  The exact algorithm I'm trying to work out.  It appears to be a no-carry over sum by digits.
 
-
+The final byte is a newline, which helps it to display well on a terminal
 
