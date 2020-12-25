@@ -41,6 +41,19 @@ When you use this configuration, you will get an output which roughly matches th
 
 # Message Content
 
+## General layout
+
+``-- -- -- -- -- -- -- 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16``
+
+``80 80 80 80 80 80 80 FF 24 4D A1 CC OO DD EE 30 MM II 30 34 33 80 XX XX``
+
+Where, Hex is the value and;
+
+- CC OO DD EE: is the numeric 4-byte code in ascii
+- MM : Mode; S,A or C
+- II : Is the ident, I for not ident, S for ident
+- XX XX : 2 byte checksum
+
 ## Preamble
 ``80 80 80`` Appear to be a pre-amble
 The next 4 bytes ``80 80 80 80`` are only present in Standby mode, and are not present in full mode
@@ -51,11 +64,11 @@ The content does not start until you recieve a 0xFF.
 
 ## Squak Code
 
-Starting at position 4-8 are the transmitting code as ascii numbers 0x30 through 0x39
+Starting at position 4-7 are the transmitting code as ascii numbers 0x30 through 0x39
 
 ## Mode
 
-The mode is encoded in the 6th position and it is the asci leters;
+The mode is encoded in the 9th position and it is the asci leters;
 
 S - Standby
 A - Mode-A
@@ -63,7 +76,7 @@ C - Mode-C
 
 ## Ident
 
-Ident is encoded at the 7th position, it stays on for 10 seconds
+Ident is encoded at the 10th position, it stays on for 10 seconds
 
 I - Non-Ident
 S - Identing
