@@ -4,11 +4,15 @@ _Disrupting personal air travel; making it safer, easier, and more affordable_
 
 This project sets to make an order-of-magnitude improvement in small aircraft safety.  A first principal human re-factoring of the flight experience, positively disrupting general aviation and agnostic of aircraft design. Secondary goals include dramatically lowering the bar for learning and operating small aircraft.  
 
+![backflip](resources/betterflight2.jpg)
+
 ## New update...
+
+The backflip project is complete and works well in a glider. I've started working on the second version.  This version works on a much more powerful, capable redundant core board, called Presure, Attitude, Sensors and Switching (PASS).  The overall design took some inspiration from the human brain, set up in a left/right configuration to facilitate redundancy.  Down the center is a 100A, 10-chanel (10A/ch) dual-bus solid-state MOSFET/PolyFuse electrical system, each side/half also has 17 channels(34 total) of installer-configurable sensor I/O for engine/aircraft sensors.  Dual pitots/static pressure sensors and dual AHRS are also hard wired on the board.  Each half/side has its own small 32-bit microcontroller that communicates with each other and connected peripherals via dual/dedicated CAN-bus controller.  Each microprocessor communicates to its own dedicated embedded display system, which is where the real "smarts" of the whole thing live. 
 
 I have started working on the core systems which will make up this huge project.  It's called "BackFlip".  It has two projects
 
-![backflip](resources/betterflight2.jpg)
+## Backflip 
 
 [BackFlip PFD](https://github.com/avpripri/BackFlip) - A better primary flight display
 
