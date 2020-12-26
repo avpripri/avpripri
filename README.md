@@ -14,6 +14,8 @@ I have started working on the core systems which will make up this huge project.
 
 ## Backflip 
 
+![backflip](https://github.com/avpripri/avpripri/blob/master/backflip.jpg)
+
 [BackFlip PFD](https://github.com/avpripri/BackFlip) - A better primary flight display
 
 [BackFlip IMU](https://github.com/avpripri/RTIMULib2) - An Android-ized re-port of the RTIMULib2 for STM32 powered quad controllers 
