@@ -16,7 +16,7 @@ I have started working on the core systems which will make up this huge project.
 
 ## Yesterday and Today
 
-Aviation has a varied safety history.  Through rigorous controls, learning and testing large aircraft have become very very safe.  Too few of these aspects have trickled down to small aircraft.  This is due to cost and complexity.  Yet it's these light aircraft where all pilots are made and still the safety of any light aircraft poor.
+Aviation has a varied safety history.  Through rigorous controls, learning and testing large aircraft have become very very safe.  Too few of these hard-lessons-learned have trickled down to small aircraft.  And a melase of "good enough" is the norm.  But this "good enough", in full disclosure is 1000x more unsafe than truelly "good", and that's just not ok.  Factors like, training, cost and complexity have been to blaim.  Yet it's these light aircraft where all pilots are made and still the safety of any light aircraft is pityfull.
 
 Here is the summary of the 27th 2017-2018 Nall Report;
 
