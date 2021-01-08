@@ -80,3 +80,25 @@ When we break all this down, you see fragments of visualization and service capa
 | Thermal Assistant |   |   |
 
 These need to be recomposed into usable capabilities in the cockpit.  But, it's a reasonable start to just compose all of those capabilities into code modules.  Some produce visualizations, others will produce information displayed to the pilot via other dependant capabilities.
+
+# Composed Solution
+
+To faciliate all these a supervisor/worker architecture will be used. Here is just a sampleing of a few of basic components design;
+
+## Periferal Integration
+
+## Display System
+
+## Instruments
+
+## 1st Person visualization
+
+## Traffic
+
+## Communication
+
+## System Controls
+
+## Maps view
+
+## Flight planning
