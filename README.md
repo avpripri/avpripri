@@ -8,8 +8,10 @@ This project sets to make an order-of-magnitude improvement in small aircraft sa
 
 ## New update...
 
+### 12/20/2020
 The backflip proof of technology sub-project is complete and has been flight proven in my glider. I've started working on the second version.  This version works on a much more powerful, capable redundant core board, called Pressure, Attitude, Sensors, and Switching (PASS).  The overall design took some inspiration from the human brain, set up in a left/right configuration to facilitate redundancy.  Down the center is a 100A, 10-channel (10A/ch) dual-bus solid-state MOSFET/PolyFuse electrical system, each side/half also has 17 channels(34 total) of installer-configurable sensor I/O for engine/aircraft sensors.  Dual pitot and static pressure sensors and dual AHRS are also hard wired on the board.  Each half/side has a small 32-bit microcontroller that communicates with each other and connected peripherals via dual/dedicated CAN-bus controller.  Each microprocessor communicates to its own dedicated embedded display system, which is where the real "smarts" of the whole thing live. 
 
+### 1/8/2020
 The first-draft board was fabricated and tested, many issue where found and resolved.  The next developer rev of the board is in fabrication as of 1/8.  I added 4 100a current sensors, this gives each bus current sensing on the battery supply/draw and the souce (alternator) current supply.  I've also added built in CAN-bus termintor jumpers and re-aligned the GPIO so they support the maximum analog input chanels.  There are 20 total, but up to 6 ares used internally, 2 are hard-wired to the bus-volt sensing.  The 4 current sensors are pinned to the DB-25 connector, so they can be used externally, if not allocated internally.
 
 I have started working on the core systems which will make up this huge project.  It's called "BackFlip".  It has two projects
