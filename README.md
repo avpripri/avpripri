@@ -1,6 +1,6 @@
 # Aviation Primary Principals
 
-_Disrupting personal air travel; making it safer, easier, and more affordable_
+_Disrupting small vehicle air travel; making it safer, easier, and more affordable_
 
 This project sets to make an order-of-magnitude improvement in small aircraft safety.  A first principal human re-factoring of the flight experience, positively disrupting general aviation and agnostic of aircraft design. Secondary goals include dramatically lowering the bar for learning and operating small aircraft.  
 
