@@ -22,7 +22,6 @@ Some of the many changes;
 - Re-aligned the GPIO so they support the maximum analog input chanels.  There are 20 total, but up to 6 ares used internally, 2 are hard-wired to the bus-volt sensing.  The 4 current sensors are pinned to the DB-25 connector, so they can be used externally, if not allocated internally.  
 - Fixed the current limitting resistors to the opto-couples
 - Fixed the voltage divider on the power busses (wrong values)
-- 
 
 I did a deep-dive circuit/design review with an Electrical Engineeer colege on this baord, finger crossed, it's flight worthy.
 
