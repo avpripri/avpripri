@@ -51,7 +51,7 @@ Redundent;
 
 This board is called the Power, Attitude, Sensor & Switches (PASS) board.  The overall design took some inspiration from the human brain, set up in a left/right configuration to facilitate redundancy. Down the center is a 100A, 10-channel (10A/ch) dual-bus solid-state MOSFET/PolyFuse electrical system, each side/half also has 17 channels(34 total) of installer-configurable sensor I/O for engine/aircraft sensors. Dual pitot and static pressure sensors and dual AHRS are also hard wired on the board. Each half/side has a small 32-bit microcontroller that communicates with each other and connected peripherals via dual/dedicated CAN-bus controller. Each microprocessor communicates to its own dedicated embedded display system, which is where the real "smarts" of the whole thing live.
 
-![PASS](../resources/PASS.png)
+![PASS](../resources/PASS.jpg)
 
 # Smarts Systems
 
