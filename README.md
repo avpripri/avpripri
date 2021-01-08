@@ -208,11 +208,9 @@ _What if the flight control system goes haywire and starts flying nuts?_  The fl
 
 _If everything is electric, what if that fails too?_  The electric system is designed for failure as well, but everything can fail. The electric motor controller will have its own independent and backed-up power supply from the high voltage and should continue to operate the electric motor.  If that should also be faulty, the airplane can still glide to a forced landing.
 
-# Proof of concept vehicle
+# Architecture
 
-The project is going to convert a light homebuilt experimental aircraft for use as a test-bed for the overall concepts expressed on this page.  
-
-![Conceptual Architecture](https://docs.google.com/drawings/d/e/2PACX-1vRf7XpgTQ-mGMANlDBKdWsu2V8Kd2P-1pKBFdryPZWSIR5R45uyv3sI4wjZxiTYhQlgd-wIdy3-WySN/pub?w=960&h=720)
+[Detailed Architecture](./Architecture.md)
 
 ## Phase 1
 
