@@ -39,7 +39,29 @@ The framework the application is built on should also support that same fast fai
 
 # Hardware
 
+The core of the entire system needs to be a dedicated hardware device which combines;
+
+Redundent;
+- Aircraft Power
+- Access to aircraft-wide low-level communication via CAN-bus
+- Microprocessor control
+- Pressure sensors
+- Attitude sensors
+- Critical system sensors
+
+This board is called the Power, Attitude, Sensor & Switches (PASS) board.  The overall design took some inspiration from the human brain, set up in a left/right configuration to facilitate redundancy. Down the center is a 100A, 10-channel (10A/ch) dual-bus solid-state MOSFET/PolyFuse electrical system, each side/half also has 17 channels(34 total) of installer-configurable sensor I/O for engine/aircraft sensors. Dual pitot and static pressure sensors and dual AHRS are also hard wired on the board. Each half/side has a small 32-bit microcontroller that communicates with each other and connected peripherals via dual/dedicated CAN-bus controller. Each microprocessor communicates to its own dedicated embedded display system, which is where the real "smarts" of the whole thing live.
+
+![PASS](../resources/PASS.png)
+
 # Smarts Systems
+
+Traditional software "Smart Systems" have a huge hype-cycle to overcome. But this isn't machine learning and it's a lot closer to tactical expert system.  This is really distilling all the best attributes of having a good co-pilot into basic rules and algorithms. These systems would be ideal for;
+
+| Description | How it could work |
+|-------------|-------------------|
+| Weather analysis | Just simple pattern matching on actual reported and forecast weather in your flight path could easily provide good information to the pilot regarding adverse weather conditions|
+| Phase of flight | If I'm appraching the destination airport... there's a very predicatable set of frequencies I will tune and checklists I will run.  This isn't rocket science... just tune the back chanel and walk me down the check list. This will be broken down in more detail as the design is flushed out. | 
+| Rule analysis | If I haven't tuned the approach around a class bravo airspace, and I'm getting close, why can't you warn me? or if the weather at my destination isn't VFR, but I'm squawking VFR, I should know that. |
 
 # First principal flight system
 
