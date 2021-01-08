@@ -15,7 +15,7 @@ The backflip proof of technology sub-project is complete and has been flight pro
 The first-draft board was fabricated and bench tested, many issue where found and resolved.  Several where "show stoppers", which means this batch is unusable.  The next developer rev of the board is in fabrication as of 1/8.  
 
 Some of the many changes;
-- Switched the pitot sensors from differential ported to an absolute pressure sensor on the board, it is slightly less sensative, but well under 1kt accurate.  It will require a porting fixture be attached manually to the board.  It's configured near the altitude sensors, so all pressure porting will be one glued plastic assembly.  Much faster assembly, much lower cost.
+- Switched the pitot sensors from differential ported to an absolute pressure sensor on the board, it is slightly less sensative, but well under 1kt accurate.  It will require a porting fixture be attached manually to the board.  All pressure sensors are idenitcal and layed out in a line so a common pressure fixture can be glued directly to the board and accomidate all pressure sensor porting.
 - Added both BNO055 to the board for faster assembly and a bit lower cost.  Left but depricated the connectors for the GY-955 module for development
 - Added four 100a current sensors, this gives each bus current sensing on the battery supply/draw and the souce (alternator) current supply.  
 - Added built in CAN-bus termintor jumpers
