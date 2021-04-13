@@ -85,6 +85,8 @@ These need to be recomposed into usable capabilities in the cockpit.  But, it's 
 
 To faciliate all these a supervisor/worker architecture will be used. Here is just a sampleing of a few of basic components design;
 
+![PASS](resources/PASS.png)
+
 ## Periferal Integration
 
 ## Display System
